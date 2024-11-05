@@ -1,365 +1,316 @@
 {
     "words": {
         "buna": {
-            "total": 0.0035,
-            "Marius Dumitran": 1.0
+            "total": 0.0074,
+            "Marius Dumitran": 0.6667,
+            "Sorina Predut": 0.3333
         },
-        "ziua.": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
+        "ziua": {
+            "total": 0.005,
+            "Marius Dumitran": 0.75,
+            "Sorina Predut": 0.25
         },
-        "Am": {
-            "total": 0.0047,
-            "Marius Dumitran": 0.5,
-            "Sorina Predut": 0.5
+        "am": {
+            "total": 0.0099,
+            "Marius Dumitran": 0.625,
+            "Sorina Predut": 0.375
         },
         "adaugat": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.6667,
             "Sorina Predut": 0.3333
         },
         "cursurile": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "3.1": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "si": {
-            "total": 0.02,
+            "total": 0.0211,
             "Marius Dumitran": 0.8235,
             "Sorina Predut": 0.1765
         },
-        "3.2": {
-            "total": 0.0047,
-            "Marius Dumitran": 1.0
-        },
-        "(la": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
+        "la": {
+            "total": 0.0347,
+            "Marius Dumitran": 0.5714,
+            "Sorina Predut": 0.4286
         },
         "aveti": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "o": {
-            "total": 0.0188,
-            "Marius Dumitran": 0.875,
-            "Sorina Predut": 0.125
+            "total": 0.0248,
+            "Marius Dumitran": 0.8,
+            "Sorina Predut": 0.2
         },
         "tema": {
-            "total": 0.0035,
-            "Marius Dumitran": 0.6667,
-            "Sorina Predut": 0.3333
-        },
-        "la": {
-            "total": 0.0282,
-            "Marius Dumitran": 0.5417,
-            "Sorina Predut": 0.4583
+            "total": 0.005,
+            "Marius Dumitran": 0.75,
+            "Sorina Predut": 0.25
         },
         "pagina": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "70": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "pe": {
-            "total": 0.02,
+            "total": 0.0211,
             "Marius Dumitran": 0.8235,
             "Sorina Predut": 0.1765
         },
         "care": {
-            "total": 0.0094,
+            "total": 0.0099,
             "Marius Dumitran": 0.625,
             "Sorina Predut": 0.375
         },
         "puteti": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "aduce": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "in": {
-            "total": 0.02,
-            "Marius Dumitran": 0.5294,
-            "Sorina Predut": 0.4706
+            "total": 0.0223,
+            "Marius Dumitran": 0.5556,
+            "Sorina Predut": 0.4444
         },
         "format": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.6667,
             "Sorina Predut": 0.3333
         },
         "fizic": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.6667,
             "Sorina Predut": 0.3333
         },
         "hartie": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "curs)": {
-            "total": 0.0023,
+        "curs": {
+            "total": 0.0074,
             "Marius Dumitran": 1.0
         },
         "discutam": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
+            "total": 0.0037,
+            "Marius Dumitran": 0.6667,
+            "Sorina Predut": 0.3333
         },
         "saptamana": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "viitoare.": {
-            "total": 0.0023,
+        "viitoare": {
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "Pentru": {
-            "total": 0.0047,
-            "Marius Dumitran": 0.75,
-            "Sorina Predut": 0.25
+        "pentru": {
+            "total": 0.0124,
+            "Marius Dumitran": 0.6,
+            "Sorina Predut": 0.4
         },
         "predictibilitate": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "va": {
-            "total": 0.0082,
-            "Marius Dumitran": 0.4286,
-            "Sorina Predut": 0.5714
-        },
-        "anunt": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "din": {
-            "total": 0.0047,
+            "total": 0.0124,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
         },
-        "timp:": {
-            "total": 0.0023,
+        "anunt": {
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "Vom": {
-            "total": 0.0035,
+        "din": {
+            "total": 0.0062,
+            "Marius Dumitran": 0.4,
+            "Sorina Predut": 0.6
+        },
+        "timp": {
+            "total": 0.0025,
+            "Marius Dumitran": 1.0
+        },
+        "vom": {
+            "total": 0.0062,
             "Marius Dumitran": 1.0
         },
         "facem": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "cursuri": {
-            "total": 0.0059,
-            "Marius Dumitran": 1.0
-        },
-        "12": {
-            "total": 0.0047,
-            "Marius Dumitran": 1.0
-        },
-        "19": {
-            "total": 0.0023,
+            "total": 0.0074,
             "Marius Dumitran": 1.0
         },
         "noiembrie": {
-            "total": 0.0082,
-            "Marius Dumitran": 0.8571,
-            "Sorina Predut": 0.1429
+            "total": 0.0124,
+            "Marius Dumitran": 0.8,
+            "Sorina Predut": 0.2
         },
         "ora": {
-            "total": 0.0082,
+            "total": 0.0087,
             "Marius Dumitran": 0.8571,
             "Sorina Predut": 0.1429
         },
-        "(o": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
         "sa": {
-            "total": 0.02,
+            "total": 0.0211,
             "Marius Dumitran": 0.7059,
             "Sorina Predut": 0.2941
         },
         "revin": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "cu": {
-            "total": 0.0141,
-            "Marius Dumitran": 0.8333,
-            "Sorina Predut": 0.1667
+            "total": 0.0161,
+            "Marius Dumitran": 0.8462,
+            "Sorina Predut": 0.1538
         },
-        "sala)": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
+        "sala": {
+            "total": 0.0074,
+            "Marius Dumitran": 0.3333,
+            "Sorina Predut": 0.6667
         },
         "nu": {
-            "total": 0.0153,
-            "Marius Dumitran": 0.6923,
-            "Sorina Predut": 0.3077
-        },
-        "vom": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
+            "total": 0.0186,
+            "Marius Dumitran": 0.6667,
+            "Sorina Predut": 0.3333
         },
         "face": {
-            "total": 0.007,
+            "total": 0.0074,
             "Marius Dumitran": 0.8333,
             "Sorina Predut": 0.1667
         },
-        "14": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "21": {
-            "total": 0.0047,
-            "Marius Dumitran": 1.0
-        },
-        "noiembrie.": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "Seminar": {
-            "total": 0.0023,
+        "seminar": {
+            "total": 0.0037,
             "Marius Dumitran": 1.0
         },
         "fie": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 1.0
         },
         "comun": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "ambele": {
-            "total": 0.0023,
+            "total": 0.0037,
             "Marius Dumitran": 1.0
         },
         "grupe": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "(daca": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
+        "daca": {
+            "total": 0.005,
+            "Marius Dumitran": 0.75,
+            "Sorina Predut": 0.25
         },
         "gasiti": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
+            "total": 0.0037,
+            "Marius Dumitran": 0.6667,
+            "Sorina Predut": 0.3333
         },
         "alte": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "variante": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "luni": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "marti": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.6667,
             "Sorina Predut": 0.3333
         },
+        "marti": {
+            "total": 0.005,
+            "Marius Dumitran": 0.5,
+            "Sorina Predut": 0.5
+        },
         "miercuri": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "putem": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "cate": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "grupa": {
-            "total": 0.0035,
-            "Marius Dumitran": 0.6667,
-            "Sorina Predut": 0.3333
+            "total": 0.005,
+            "Marius Dumitran": 0.75,
+            "Sorina Predut": 0.25
         },
         "imi": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "spuneti).": {
-            "total": 0.0023,
+        "spuneti": {
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "Cursul/seminarul": {
-            "total": 0.0023,
+        "cursul": {
+            "total": 0.0062,
+            "Marius Dumitran": 0.6,
+            "Sorina Predut": 0.4
+        },
+        "seminarul": {
+            "total": 0.0037,
             "Marius Dumitran": 1.0
         },
         "de": {
-            "total": 0.034,
-            "Marius Dumitran": 0.5517,
-            "Sorina Predut": 0.4483
-        },
-        "7": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
+            "total": 0.0372,
+            "Marius Dumitran": 0.5667,
+            "Sorina Predut": 0.4333
         },
         "se": {
-            "total": 0.0094,
+            "total": 0.0099,
             "Marius Dumitran": 0.875,
             "Sorina Predut": 0.125
         },
         "tin": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "conform": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 1.0
         },
-        "orarului.": {
-            "total": 0.0023,
+        "orarului": {
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "Cursuri": {
+        "noi": {
+            "total": 0.0025,
+            "Marius Dumitran": 1.0
+        },
+        "informatii": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "noi/Tema": {
+        "general": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
-        },
-        "+": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Informatii": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "General": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Va": {
-            "total": 0.0035,
-            "Marius Dumitran": 0.6667,
-            "Sorina Predut": 0.3333
         },
         "rugam": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "completati": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.3333,
             "Sorina Predut": 0.6667
         },
         "acest": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
         },
@@ -376,27 +327,14 @@
             "Marius Dumitran": 1.0
         },
         "mai": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.6667,
             "Sorina Predut": 0.3333
         },
-        "bine:": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Buna": {
-            "total": 0.0035,
-            "Marius Dumitran": 0.3333,
-            "Sorina Predut": 0.6667
-        },
-        "ziua": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "am": {
-            "total": 0.0035,
-            "Marius Dumitran": 0.6667,
-            "Sorina Predut": 0.3333
+        "bine": {
+            "total": 0.0025,
+            "Marius Dumitran": 0.5,
+            "Sorina Predut": 0.5
         },
         "pus": {
             "total": 0.0012,
@@ -406,55 +344,38 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "curs": {
-            "total": 0.0035,
-            "Marius Dumitran": 1.0
-        },
-        "AF": {
+        "af": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "seria": {
-            "total": 0.0023,
-            "Marius Dumitran": 0.5,
-            "Sorina Predut": 0.5
+            "total": 0.0037,
+            "Marius Dumitran": 0.3333,
+            "Sorina Predut": 0.6667
         },
-        "25.": {
-            "total": 0.0023,
-            "Marius Dumitran": 0.5,
-            "Sorina Predut": 0.5
-        },
-        "Cu": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "men\u00c8\u203aiunea": {
+        "men\u00e8\u203aiunea": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "ca": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
-        },
-        "2.4": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
         },
         "componente": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Tare": {
+        "tare": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Conexe": {
+        "conexe": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "este": {
-            "total": 0.007,
+            "total": 0.0074,
             "Marius Dumitran": 0.6667,
             "Sorina Predut": 0.3333
         },
@@ -463,7 +384,7 @@
             "Marius Dumitran": 1.0
         },
         "un": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 1.0
         },
         "mic": {
@@ -474,34 +395,21 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "pentru": {
-            "total": 0.007,
-            "Marius Dumitran": 0.5,
-            "Sorina Predut": 0.5
-        },
         "laborator": {
-            "total": 0.0047,
+            "total": 0.005,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
         },
         "a": {
-            "total": 0.0082,
-            "Marius Dumitran": 0.7143,
-            "Sorina Predut": 0.2857
+            "total": 0.0149,
+            "Marius Dumitran": 0.5833,
+            "Sorina Predut": 0.4167
         },
         "fost": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "discutata": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "curs.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "De": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -517,11 +425,11 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Havel": {
+        "havel": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Hakimi": {
+        "hakimi": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -529,78 +437,53 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "demonstra\u00c8\u203aia": {
-            "total": 0.0023,
+        "demonstra\u00e8\u203aia": {
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "corectitudinii": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "\u00c8\u2122i": {
-            "total": 0.0035,
+        "\u00e8\u2122i": {
+            "total": 0.0037,
             "Marius Dumitran": 1.0
         },
         "cere": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "examen.": {
+        "examen": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Programul": {
+        "programul": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "urm\u00c4\u0192toarele": {
+        "urm\u00e4\u0192toarele": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "2": {
-            "total": 0.0047,
-            "Marius Dumitran": 0.75,
-            "Sorina Predut": 0.25
-        },
-        "s\u00c4\u0192pt\u00c4\u0192m\u00c3\u00a2ni:": {
+        "s\u00e4\u0192pt\u00e4\u0192m\u00e3\u00a2ni": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "17": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Octombrie": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "(nu": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
+        "octombrie": {
+            "total": 0.0087,
+            "Marius Dumitran": 0.8571,
+            "Sorina Predut": 0.1429
         },
         "tine": {
-            "total": 0.0035,
-            "Marius Dumitran": 0.3333,
-            "Sorina Predut": 0.6667
+            "total": 0.005,
+            "Marius Dumitran": 0.25,
+            "Sorina Predut": 0.75
         },
         "nici": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "seminar:": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Cursul": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "3": {
-            "total": 0.0035,
-            "Marius Dumitran": 0.6667,
-            "Sorina Predut": 0.3333
-        },
-        "l-am": {
+        "l": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -612,31 +495,12 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "ast\u00c4\u0192zi": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "11": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "octombrie": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        ")": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "24": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
+        "ast\u00e4\u0192zi": {
+            "total": 0.0025,
+            "Marius Dumitran": 0.5,
+            "Sorina Predut": 0.5
         },
         "programului": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "(seminarul": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -644,123 +508,82 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "grupa).": {
+        "program": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Program": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "preg\u00c4\u0192tire": {
+        "preg\u00e4\u0192tire": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "concursuri": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "(5-6": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Octombrie):": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "5": {
-            "total": 0.0023,
-            "Marius Dumitran": 0.5,
-            "Sorina Predut": 0.5
-        },
-        "Octombrie,": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "15:00:": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Concurs": {
-            "total": 0.0023,
+        "concurs": {
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "individual": {
-            "total": 0.0023,
-            "Marius Dumitran": 1.0
-        },
-        "ore.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "6": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "11:00:": {
-            "total": 0.0012,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "ore": {
+            "total": 0.0025,
+            "Marius Dumitran": 1.0
+        },
+        "jum\u00e4\u0192tate": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "jum\u00c4\u0192tate,": {
+        "condi\u00e8\u203aii": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "condi\u00c8\u203aii": {
+        "speciale": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "speciale.": {
+        "informa\u00e8\u203aii": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Informa\u00c8\u203aii": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "suplimentare:": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Ambele": {
+        "suplimentare": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "vor": {
-            "total": 0.0059,
+            "total": 0.0062,
             "Marius Dumitran": 0.2,
             "Sorina Predut": 0.8
         },
         "avea": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.6667,
             "Sorina Predut": 0.3333
         },
         "loc": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
         },
-        "Amfiteatrul": {
+        "amfiteatrul": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Titeica.": {
+        "titeica": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Participan\u00c8\u203aii": {
+        "participan\u00e8\u203aii": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "sunt": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
-        "a\u00c8\u2122tepta\u00c8\u203ai": {
+        "a\u00e8\u2122tepta\u00e8\u203ai": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -768,54 +591,56 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "propriu.": {
+        "propriu": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Dac\u00c4\u0192": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "ave\u00c8\u203ai": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "laptop,": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "\u00c3\u00aen": {
-            "total": 0.007,
-            "Marius Dumitran": 0.1667,
-            "Sorina Predut": 0.8333
-        },
-        "regul\u00c4\u0192.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Avem": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "sal\u00c4\u0192": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "disponibil\u00c4\u0192.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Orele": {
-            "total": 0.0023,
+        "dac\u00e4\u0192": {
+            "total": 0.0025,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
         },
-        "anun\u00c8\u203aate": {
+        "ave\u00e8\u203ai": {
+            "total": 0.0012,
+            "Marius Dumitran": 1.0
+        },
+        "laptop": {
+            "total": 0.0012,
+            "Marius Dumitran": 1.0
+        },
+        "\u00e3\u00aen": {
+            "total": 0.0074,
+            "Marius Dumitran": 0.1667,
+            "Sorina Predut": 0.8333
+        },
+        "regul\u00e4\u0192": {
+            "total": 0.0012,
+            "Marius Dumitran": 1.0
+        },
+        "avem": {
+            "total": 0.0025,
+            "Marius Dumitran": 0.5,
+            "Sorina Predut": 0.5
+        },
+        "sal\u00e4\u0192": {
+            "total": 0.0012,
+            "Marius Dumitran": 1.0
+        },
+        "disponibil\u00e4\u0192": {
+            "total": 0.0012,
+            "Marius Dumitran": 1.0
+        },
+        "orele": {
+            "total": 0.005,
+            "Marius Dumitran": 0.25,
+            "Sorina Predut": 0.75
+        },
+        "anun\u00e8\u203aate": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "cele": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
         },
@@ -827,11 +652,11 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "concursurilor.": {
+        "concursurilor": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Veni\u00c8\u203ai": {
+        "veni\u00e8\u203ai": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -839,11 +664,7 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "pu\u00c8\u203ain": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "15": {
+        "pu\u00e8\u203ain": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -851,32 +672,33 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "\u00c3\u00aenainte.": {
+        "\u00e3\u00aenainte": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "\u00c3\u017dn": {
+        "\u00e3\u017en": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "weekend,": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
+        "weekend": {
+            "total": 0.0025,
+            "Marius Dumitran": 0.5,
+            "Sorina Predut": 0.5
         },
         "facultatea": {
-            "total": 0.0012,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "poate": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "fi": {
-            "total": 0.0059,
+            "total": 0.0062,
             "Marius Dumitran": 0.4,
             "Sorina Predut": 0.6
         },
-        "\u00c3\u00aenchis\u00c4\u0192;": {
+        "\u00e3\u00aenchis\u00e4\u0192": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -884,15 +706,11 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Facultatea": {
+        "litere": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Litere.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Duminic\u00c4\u0192,": {
+        "duminic\u00e4\u0192": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -901,40 +719,37 @@
             "Marius Dumitran": 1.0
         },
         "online": {
-            "total": 0.0023,
-            "Marius Dumitran": 0.5,
-            "Sorina Predut": 0.5
+            "total": 0.0037,
+            "Marius Dumitran": 0.6667,
+            "Sorina Predut": 0.3333
         },
-        "permis\u00c4\u0192.": {
+        "permis\u00e4\u0192": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "S\u00c3\u00a2mb\u00c4\u0192t\u00c4\u0192": {
+        "s\u00e3\u00a2mb\u00e4\u0192t\u00e4\u0192": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
         "participa": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.3333,
             "Sorina Predut": 0.6667
         },
-        "online,": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
         "dar": {
+            "total": 0.0025,
+            "Marius Dumitran": 0.5,
+            "Sorina Predut": 0.5
+        },
+        "\u00e3\u00aencurajat\u00e4\u0192": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "\u00c3\u00aencurajat\u00c4\u0192.": {
+        "contacte": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Contacte": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "utile:": {
+        "utile": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -946,12 +761,8 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "1": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
         "exista": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "facultativ": {
@@ -962,11 +773,7 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "competitiva.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "In": {
+        "competitiva": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -986,16 +793,11 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Hai": {
+        "hai": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "La": {
-            "total": 0.0023,
-            "Marius Dumitran": 0.5,
-            "Sorina Predut": 0.5
-        },
-        "Olimpiada": {
+        "olimpiada": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -1007,36 +809,20 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "dimineata.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Acolo": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "4": {
-            "total": 0.0023,
+        "dimineata": {
+            "total": 0.0025,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
+        },
+        "acolo": {
+            "total": 0.0012,
+            "Marius Dumitran": 1.0
         },
         "nivele": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "9-a,": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "10-a,": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "11-12": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "lot.": {
+        "lot": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -1045,23 +831,15 @@
             "Marius Dumitran": 1.0
         },
         "unde": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "vreti": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "mergeti.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Daca": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
         "mergeti": {
-            "total": 0.0012,
+            "total": 0.0025,
             "Marius Dumitran": 1.0
         },
         "constant": {
@@ -1085,12 +863,12 @@
             "Marius Dumitran": 1.0
         },
         "veti": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Marius Dumitran": 0.6667,
             "Sorina Predut": 0.3333
         },
         "putea": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
         },
@@ -1099,10 +877,10 @@
             "Marius Dumitran": 1.0
         },
         "nota": {
-            "total": 0.0023,
+            "total": 0.0037,
             "Marius Dumitran": 1.0
         },
-        "PC.": {
+        "pc": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -1119,7 +897,7 @@
             "Marius Dumitran": 1.0
         },
         "voi": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Marius Dumitran": 0.5,
             "Sorina Predut": 0.5
         },
@@ -1143,17 +921,18 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Codeforces": {
+        "codeforces": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "(indifierent": {
+        "indifierent": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "incepeti).": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
+        "incepeti": {
+            "total": 0.0025,
+            "Marius Dumitran": 0.5,
+            "Sorina Predut": 0.5
         },
         "discuta": {
             "total": 0.0012,
@@ -1171,11 +950,11 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "semestrului.": {
+        "semestrului": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "Oricum": {
+        "oricum": {
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
@@ -1199,59 +978,31 @@
             "total": 0.0012,
             "Marius Dumitran": 1.0
         },
-        "noi": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "nota.": {
-            "total": 0.0012,
-            "Marius Dumitran": 1.0
-        },
-        "Marti,": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
         "intervalul": {
-            "total": 0.0059,
+            "total": 0.0062,
             "Sorina Predut": 1.0
         },
-        "8-11,": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "sala": {
-            "total": 0.0047,
-            "Sorina Predut": 1.0
-        },
-        "Google": {
-            "total": 0.0023,
-            "Sorina Predut": 1.0
-        },
-        "avem": {
-            "total": 0.0012,
+        "google": {
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
         "programat": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
         "workshopul": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Oracle": {
-            "total": 0.0023,
+        "oracle": {
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
-        "SQL": {
+        "sql": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Tuning": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "-": {
+        "tuning": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1259,7 +1010,7 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "I,": {
+        "i": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1275,27 +1026,27 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "ing.": {
+        "ing": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Valetin": {
+        "valetin": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Robu,": {
+        "robu": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Technical": {
+        "technical": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Leader.": {
+        "leader": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Acesta": {
+        "acesta": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1303,7 +1054,7 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Zoom": {
+        "zoom": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1311,20 +1062,20 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Teams": {
+        "teams": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "(datele": {
-            "total": 0.0012,
+        "datele": {
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
         "conectare": {
-            "total": 0.0023,
+            "total": 0.0037,
             "Sorina Predut": 1.0
         },
         "workshop": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
         "trimise": {
@@ -1336,10 +1087,10 @@
             "Sorina Predut": 1.0
         },
         "prin": {
-            "total": 0.0012,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
-        "email).": {
+        "email": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1348,7 +1099,7 @@
             "Sorina Predut": 1.0
         },
         "rog": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
         "urmatorul": {
@@ -1359,35 +1110,11 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "ziua!": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Nu": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
         "pot": {
-            "total": 0.0047,
+            "total": 0.005,
             "Sorina Predut": 1.0
         },
-        "cursul": {
-            "total": 0.0023,
-            "Sorina Predut": 1.0
-        },
-        "luni,": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "4.11": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "tine.": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Scuze": {
+        "scuze": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1395,23 +1122,15 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "creat.": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Multumesc!": {
-            "total": 0.0023,
-            "Sorina Predut": 1.0
-        },
         "creat": {
-            "total": 0.0012,
+            "total": 0.0025,
+            "Sorina Predut": 1.0
+        },
+        "multumesc": {
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
         "userul": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "seria25": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1435,23 +1154,15 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "o21c": {
+        "c": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "o23ai": {
+        "ai": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "facultate.": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Gasiti": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "datele": {
+        "facultate": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1460,14 +1171,14 @@
             "Sorina Predut": 1.0
         },
         "fisierul": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
-        "conectare_SQLDeveloper.txt": {
+        "sqldeveloper": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Din": {
+        "txt": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1475,23 +1186,11 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "orele": {
-            "total": 0.0023,
-            "Sorina Predut": 1.0
-        },
-        "12-14": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
         "perioada": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "octombrie-noiembrie.": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Azi": {
+        "azi": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1507,11 +1206,7 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "activitatea.": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Dar": {
+        "activitatea": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1519,20 +1214,8 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "13": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "221A.": {
-            "total": 0.0023,
-            "Sorina Predut": 1.0
-        },
-        "Discutam": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
         "lab": {
-            "total": 0.0012,
+            "total": 0.0037,
             "Sorina Predut": 1.0
         },
         "despre": {
@@ -1555,15 +1238,7 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "16-18.": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "dimineata!": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Comisia": {
+        "comisia": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1571,7 +1246,7 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "m-a": {
+        "m": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1579,35 +1254,27 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "c\u00c4\u0192": {
+        "c\u00e4\u0192": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
         "laboratorul": {
-            "total": 0.0035,
+            "total": 0.0037,
             "Sorina Predut": 1.0
         },
         "subgrupei": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
-        "2522": {
+        "mar\u00e8\u203ai": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "mar\u00c8\u203ai,": {
+        "modificarea": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "16:00-18:00,": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Modificarea": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "vizibil\u00c4\u0192": {
+        "vizibil\u00e4\u0192": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1615,39 +1282,19 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "weekend.": {
+        "urmare": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Prin": {
+        "\u00e3\u00aencep\u00e3\u00a2nd": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "urmare,": {
+        "desf\u00e4\u0192\u00e8\u2122ura": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "\u00c3\u00aencep\u00c3\u00a2nd": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "ast\u00c4\u0192zi,": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "desf\u00c4\u0192\u00c8\u2122ura": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "252": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "14:00-18:00.": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Reamintesc": {
+        "reamintesc": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1655,51 +1302,55 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "men\u00c8\u203aionat": {
+        "men\u00e8\u203aionat": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "ieri:": {
+        "ieri": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "2521": {
+        "studen\u00e8\u203aii": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "studen\u00c8\u203aii": {
+        "s": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "s-au": {
+        "au": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "\u00c3\u00aenscris": {
+        "\u00e3\u00aenscris": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "op\u00c8\u203aionalul": {
+        "op\u00e8\u203aionalul": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "DAW": {
+        "daw": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "ASP.NET.": {
+        "asp": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Ceilal\u00c8\u203ai": {
+        "net": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "studen\u00c8\u203ai": {
+        "ceilal\u00e8\u203ai": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "distribui\u00c8\u203ai": {
+        "studen\u00e8\u203ai": {
+            "total": 0.0012,
+            "Sorina Predut": 1.0
+        },
+        "distribui\u00e8\u203ai": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1708,10 +1359,10 @@
             "Sorina Predut": 1.0
         },
         "subgrupe": {
-            "total": 0.0012,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
-        "Pute\u00c8\u203ai": {
+        "pute\u00e8\u203ai": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1724,7 +1375,7 @@
             "Sorina Predut": 1.0
         },
         "laboratoare": {
-            "total": 0.0012,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
         "ale": {
@@ -1735,51 +1386,39 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "25,": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "dac\u00c4\u0192": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "exist\u00c4\u0192": {
+        "exist\u00e4\u0192": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
         "locuri": {
-            "total": 0.0023,
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
-        "disponibile.": {
+        "disponibile": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Completa\u00c8\u203ai": {
+        "completa\u00e8\u203ai": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "fi\u00c8\u2122ierul": {
+        "fi\u00e8\u2122ierul": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "distributie_lab,": {
-            "total": 0.0023,
+        "distributie": {
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
-        "sec\u00c8\u203aiunea": {
-            "total": 0.0035,
+        "sec\u00e8\u203aiunea": {
+            "total": 0.0037,
             "Sorina Predut": 1.0
         },
-        "Files.": {
-            "total": 0.0012,
+        "files": {
+            "total": 0.0025,
             "Sorina Predut": 1.0
         },
         "formule": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Files": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1799,11 +1438,7 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "(maxim": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "20!)": {
+        "maxim": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1811,23 +1446,15 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "subgrupe.": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
         "subgrupa": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "merge.": {
+        "merge": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Chiar": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "daca": {
+        "chiar": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1855,14 +1482,6 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "bine": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "incepeti": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
         "lucrati": {
             "total": 0.0012,
             "Sorina Predut": 1.0
@@ -1871,11 +1490,11 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "acum.": {
+        "acum": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "Verificati": {
+        "verificati": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
@@ -1887,23 +1506,11 @@
             "total": 0.0012,
             "Sorina Predut": 1.0
         },
-        "teme_2511,": {
-            "total": 0.0012,
+        "teme": {
+            "total": 0.005,
             "Sorina Predut": 1.0
         },
-        "teme_2512,": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "teme_2521,": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "teme_2522": {
-            "total": 0.0012,
-            "Sorina Predut": 1.0
-        },
-        "Materiale/laboratoare": {
+        "materiale": {
             "total": 0.0012,
             "Sorina Predut": 1.0
         }
@@ -1911,507 +1518,418 @@
     "people": {
         "Marius Dumitran": {
             "total": 0.5,
-            "total_words": 527,
-            "buna": 0.0057,
-            "ziua.": 0.0038,
-            "Am": 0.0038,
-            "adaugat": 0.0038,
-            "cursurile": 0.0038,
-            "3.1": 0.0038,
-            "si": 0.0266,
-            "3.2": 0.0076,
-            "(la": 0.0038,
-            "aveti": 0.0038,
-            "o": 0.0266,
-            "tema": 0.0038,
-            "la": 0.0247,
-            "pagina": 0.0038,
-            "70": 0.0038,
-            "pe": 0.0266,
-            "care": 0.0095,
-            "puteti": 0.0038,
-            "aduce": 0.0038,
-            "in": 0.0171,
-            "format": 0.0038,
-            "fizic": 0.0038,
-            "hartie": 0.0038,
-            "curs)": 0.0038,
-            "discutam": 0.0038,
-            "saptamana": 0.0038,
-            "viitoare.": 0.0038,
-            "Pentru": 0.0057,
-            "predictibilitate": 0.0038,
-            "va": 0.0057,
-            "anunt": 0.0038,
-            "din": 0.0038,
-            "timp:": 0.0038,
-            "Vom": 0.0057,
-            "facem": 0.0038,
-            "cursuri": 0.0095,
-            "12": 0.0076,
-            "19": 0.0038,
-            "noiembrie": 0.0114,
-            "ora": 0.0114,
-            "(o": 0.0038,
-            "sa": 0.0228,
-            "revin": 0.0038,
-            "cu": 0.019,
-            "sala)": 0.0038,
-            "nu": 0.0171,
-            "vom": 0.0038,
-            "face": 0.0095,
-            "14": 0.0038,
-            "21": 0.0076,
-            "noiembrie.": 0.0038,
-            "Seminar": 0.0038,
-            "fie": 0.0057,
-            "comun": 0.0038,
-            "ambele": 0.0038,
-            "grupe": 0.0038,
-            "(daca": 0.0038,
-            "gasiti": 0.0038,
-            "alte": 0.0038,
-            "variante": 0.0038,
-            "luni": 0.0038,
-            "marti": 0.0038,
-            "miercuri": 0.0038,
-            "putem": 0.0038,
-            "cate": 0.0038,
-            "grupa": 0.0038,
-            "imi": 0.0038,
-            "spuneti).": 0.0038,
-            "Cursul/seminarul": 0.0038,
-            "de": 0.0304,
-            "7": 0.0038,
-            "se": 0.0133,
-            "tin": 0.0038,
-            "conform": 0.0057,
-            "orarului.": 0.0038,
-            "Cursuri": 0.0019,
-            "noi/Tema": 0.0019,
-            "+": 0.0019,
-            "Informatii": 0.0019,
-            "General": 0.0019,
-            "Va": 0.0038,
-            "rugam": 0.0019,
-            "completati": 0.0019,
-            "acest": 0.0019,
-            "forms": 0.0019,
-            "ne": 0.0019,
-            "coordonam": 0.0019,
-            "mai": 0.0038,
-            "bine:": 0.0019,
-            "Buna": 0.0019,
-            "ziua": 0.0019,
-            "am": 0.0038,
-            "pus": 0.0019,
-            "materialele": 0.0019,
-            "curs": 0.0057,
-            "AF": 0.0019,
-            "seria": 0.0019,
-            "25.": 0.0019,
-            "Cu": 0.0019,
-            "men\u00c8\u203aiunea": 0.0019,
-            "ca": 0.0019,
-            "2.4": 0.0019,
-            "componente": 0.0019,
-            "Tare": 0.0019,
-            "Conexe": 0.0019,
-            "este": 0.0076,
-            "doar": 0.0019,
-            "un": 0.0057,
-            "mic": 0.0019,
-            "help": 0.0019,
-            "pentru": 0.0057,
-            "laborator": 0.0038,
-            "a": 0.0095,
-            "fost": 0.0019,
-            "discutata": 0.0019,
-            "curs.": 0.0019,
-            "De": 0.0019,
-            "asemenea": 0.0019,
-            "algoritmul": 0.0019,
-            "lui": 0.0019,
-            "Havel": 0.0019,
-            "Hakimi": 0.0019,
-            "discutat": 0.0019,
-            "demonstra\u00c8\u203aia": 0.0038,
-            "corectitudinii": 0.0019,
-            "\u00c8\u2122i": 0.0057,
-            "cere": 0.0019,
-            "examen.": 0.0019,
-            "Programul": 0.0019,
-            "urm\u00c4\u0192toarele": 0.0019,
-            "2": 0.0057,
-            "s\u00c4\u0192pt\u00c4\u0192m\u00c3\u00a2ni:": 0.0019,
-            "17": 0.0019,
-            "Octombrie": 0.0038,
-            "(nu": 0.0019,
-            "tine": 0.0019,
-            "nici": 0.0038,
-            "seminar:": 0.0019,
-            "Cursul": 0.0019,
-            "3": 0.0038,
-            "l-am": 0.0019,
-            "recuperat": 0.0019,
-            "avans": 0.0019,
-            "ast\u00c4\u0192zi": 0.0019,
-            "11": 0.0019,
-            "octombrie": 0.0019,
-            ")": 0.0019,
-            "24": 0.0019,
-            "programului": 0.0019,
-            "(seminarul": 0.0019,
-            "toata": 0.0019,
-            "grupa).": 0.0019,
-            "Program": 0.0019,
-            "preg\u00c4\u0192tire": 0.0019,
-            "concursuri": 0.0038,
-            "(5-6": 0.0019,
-            "Octombrie):": 0.0019,
-            "5": 0.0019,
-            "Octombrie,": 0.0038,
-            "15:00:": 0.0019,
-            "Concurs": 0.0038,
-            "individual": 0.0038,
-            "ore.": 0.0019,
-            "6": 0.0019,
-            "11:00:": 0.0019,
-            "ore": 0.0019,
-            "jum\u00c4\u0192tate,": 0.0019,
-            "condi\u00c8\u203aii": 0.0019,
-            "speciale.": 0.0019,
-            "Informa\u00c8\u203aii": 0.0019,
-            "suplimentare:": 0.0019,
-            "Ambele": 0.0019,
-            "vor": 0.0019,
-            "avea": 0.0038,
-            "loc": 0.0019,
-            "Amfiteatrul": 0.0019,
-            "Titeica.": 0.0019,
-            "Participan\u00c8\u203aii": 0.0019,
-            "sunt": 0.0038,
-            "a\u00c8\u2122tepta\u00c8\u203ai": 0.0019,
-            "laptopul": 0.0019,
-            "propriu.": 0.0019,
-            "Dac\u00c4\u0192": 0.0019,
-            "ave\u00c8\u203ai": 0.0019,
-            "laptop,": 0.0019,
-            "\u00c3\u00aen": 0.0019,
-            "regul\u00c4\u0192.": 0.0019,
-            "Avem": 0.0019,
-            "sal\u00c4\u0192": 0.0019,
-            "disponibil\u00c4\u0192.": 0.0019,
-            "Orele": 0.0019,
-            "anun\u00c8\u203aate": 0.0019,
-            "cele": 0.0019,
-            "start": 0.0019,
-            "al": 0.0019,
-            "concursurilor.": 0.0019,
-            "Veni\u00c8\u203ai": 0.0019,
-            "cel": 0.0019,
-            "pu\u00c8\u203ain": 0.0019,
-            "15": 0.0019,
-            "minute": 0.0019,
-            "\u00c3\u00aenainte.": 0.0019,
-            "\u00c3\u017dn": 0.0019,
-            "weekend,": 0.0019,
-            "facultatea": 0.0019,
-            "poate": 0.0038,
-            "fi": 0.0038,
-            "\u00c3\u00aenchis\u00c4\u0192;": 0.0019,
-            "accesul": 0.0019,
-            "Facultatea": 0.0019,
-            "Litere.": 0.0019,
-            "Duminic\u00c4\u0192,": 0.0019,
-            "participarea": 0.0019,
-            "online": 0.0019,
-            "permis\u00c4\u0192.": 0.0019,
-            "S\u00c3\u00a2mb\u00c4\u0192t\u00c4\u0192": 0.0019,
-            "participa": 0.0019,
-            "online,": 0.0019,
-            "dar": 0.0019,
-            "\u00c3\u00aencurajat\u00c4\u0192.": 0.0019,
-            "Contacte": 0.0019,
-            "utile:": 0.0019,
-            "cei": 0.0019,
-            "anul": 0.0019,
-            "1": 0.0019,
-            "exista": 0.0038,
-            "facultativ": 0.0019,
-            "programare": 0.0019,
-            "competitiva.": 0.0019,
-            "In": 0.0019,
-            "mare": 0.0019,
-            "el": 0.0019,
-            "integrat": 0.0019,
-            "cercul": 0.0019,
-            "Hai": 0.0019,
-            "La": 0.0019,
-            "Olimpiada": 0.0019,
-            "intampla": 0.0019,
-            "sambata": 0.0019,
-            "dimineata.": 0.0019,
-            "Acolo": 0.0019,
-            "4": 0.0019,
-            "nivele": 0.0019,
-            "9-a,": 0.0019,
-            "10-a,": 0.0019,
-            "11-12": 0.0019,
-            "lot.": 0.0019,
-            "alegeti": 0.0019,
-            "unde": 0.0038,
-            "vreti": 0.0019,
-            "mergeti.": 0.0019,
-            "Daca": 0.0019,
-            "mergeti": 0.0019,
-            "constant": 0.0019,
-            "sunteti": 0.0019,
-            "activi": 0.0019,
-            "rezolvati": 0.0019,
-            "probleme": 0.0019,
-            "veti": 0.0038,
-            "putea": 0.0019,
-            "obtine": 0.0019,
-            "nota": 0.0038,
-            "PC.": 0.0019,
-            "nevoie": 0.0019,
-            "prezenta": 0.0019,
-            "activitate": 0.0019,
-            "voi": 0.0019,
-            "dori": 0.0019,
-            "vad": 0.0019,
-            "crestere": 0.0019,
-            "evidenta": 0.0019,
-            "ratingul": 0.0019,
-            "Codeforces": 0.0019,
-            "(indifierent": 0.0019,
-            "incepeti).": 0.0019,
-            "discuta": 0.0019,
-            "mult": 0.0019,
-            "doua": 0.0019,
-            "parte": 0.0019,
-            "semestrului.": 0.0019,
-            "Oricum": 0.0019,
-            "scopul": 0.0019,
-            "principal": 0.0019,
-            "trebuie": 0.0019,
-            "invatati": 0.0019,
-            "lucruri": 0.0019,
-            "noi": 0.0019,
-            "nota.": 0.0019
+            "total_words": 488,
+            "buna": 0.0082,
+            "ziua": 0.0061,
+            "am": 0.0102,
+            "adaugat": 0.0041,
+            "cursurile": 0.0041,
+            "si": 0.0287,
+            "la": 0.0328,
+            "aveti": 0.0041,
+            "o": 0.0328,
+            "tema": 0.0061,
+            "pagina": 0.0041,
+            "pe": 0.0287,
+            "care": 0.0102,
+            "puteti": 0.0041,
+            "aduce": 0.0041,
+            "in": 0.0205,
+            "format": 0.0041,
+            "fizic": 0.0041,
+            "hartie": 0.0041,
+            "curs": 0.0123,
+            "discutam": 0.0041,
+            "saptamana": 0.0041,
+            "viitoare": 0.0041,
+            "pentru": 0.0123,
+            "predictibilitate": 0.0041,
+            "va": 0.0102,
+            "anunt": 0.0041,
+            "din": 0.0041,
+            "timp": 0.0041,
+            "vom": 0.0102,
+            "facem": 0.0041,
+            "cursuri": 0.0123,
+            "noiembrie": 0.0164,
+            "ora": 0.0123,
+            "sa": 0.0246,
+            "revin": 0.0041,
+            "cu": 0.0225,
+            "sala": 0.0041,
+            "nu": 0.0205,
+            "face": 0.0102,
+            "seminar": 0.0061,
+            "fie": 0.0061,
+            "comun": 0.0041,
+            "ambele": 0.0061,
+            "grupe": 0.0041,
+            "daca": 0.0061,
+            "gasiti": 0.0041,
+            "alte": 0.0041,
+            "variante": 0.0041,
+            "luni": 0.0041,
+            "marti": 0.0041,
+            "miercuri": 0.0041,
+            "putem": 0.0041,
+            "cate": 0.0041,
+            "grupa": 0.0061,
+            "imi": 0.0041,
+            "spuneti": 0.0041,
+            "cursul": 0.0061,
+            "seminarul": 0.0061,
+            "de": 0.0348,
+            "se": 0.0143,
+            "tin": 0.0041,
+            "conform": 0.0061,
+            "orarului": 0.0041,
+            "noi": 0.0041,
+            "informatii": 0.002,
+            "general": 0.002,
+            "rugam": 0.002,
+            "completati": 0.002,
+            "acest": 0.002,
+            "forms": 0.002,
+            "ne": 0.002,
+            "coordonam": 0.002,
+            "mai": 0.0041,
+            "bine": 0.002,
+            "pus": 0.002,
+            "materialele": 0.002,
+            "af": 0.002,
+            "seria": 0.002,
+            "men\u00e8\u203aiunea": 0.002,
+            "ca": 0.002,
+            "componente": 0.002,
+            "tare": 0.002,
+            "conexe": 0.002,
+            "este": 0.0082,
+            "doar": 0.002,
+            "un": 0.0061,
+            "mic": 0.002,
+            "help": 0.002,
+            "laborator": 0.0041,
+            "a": 0.0143,
+            "fost": 0.002,
+            "discutata": 0.002,
+            "asemenea": 0.002,
+            "algoritmul": 0.002,
+            "lui": 0.002,
+            "havel": 0.002,
+            "hakimi": 0.002,
+            "discutat": 0.002,
+            "demonstra\u00e8\u203aia": 0.0041,
+            "corectitudinii": 0.002,
+            "\u00e8\u2122i": 0.0061,
+            "cere": 0.002,
+            "examen": 0.002,
+            "programul": 0.002,
+            "urm\u00e4\u0192toarele": 0.002,
+            "s\u00e4\u0192pt\u00e4\u0192m\u00e3\u00a2ni": 0.002,
+            "octombrie": 0.0123,
+            "tine": 0.002,
+            "nici": 0.0041,
+            "l": 0.002,
+            "recuperat": 0.002,
+            "avans": 0.002,
+            "ast\u00e4\u0192zi": 0.002,
+            "programului": 0.002,
+            "toata": 0.002,
+            "program": 0.002,
+            "preg\u00e4\u0192tire": 0.002,
+            "concursuri": 0.0041,
+            "concurs": 0.0041,
+            "individual": 0.0041,
+            "ore": 0.0041,
+            "jum\u00e4\u0192tate": 0.002,
+            "condi\u00e8\u203aii": 0.002,
+            "speciale": 0.002,
+            "informa\u00e8\u203aii": 0.002,
+            "suplimentare": 0.002,
+            "vor": 0.002,
+            "avea": 0.0041,
+            "loc": 0.002,
+            "amfiteatrul": 0.002,
+            "titeica": 0.002,
+            "participan\u00e8\u203aii": 0.002,
+            "sunt": 0.0041,
+            "a\u00e8\u2122tepta\u00e8\u203ai": 0.002,
+            "laptopul": 0.002,
+            "propriu": 0.002,
+            "dac\u00e4\u0192": 0.002,
+            "ave\u00e8\u203ai": 0.002,
+            "laptop": 0.002,
+            "\u00e3\u00aen": 0.002,
+            "regul\u00e4\u0192": 0.002,
+            "avem": 0.002,
+            "sal\u00e4\u0192": 0.002,
+            "disponibil\u00e4\u0192": 0.002,
+            "orele": 0.002,
+            "anun\u00e8\u203aate": 0.002,
+            "cele": 0.002,
+            "start": 0.002,
+            "al": 0.002,
+            "concursurilor": 0.002,
+            "veni\u00e8\u203ai": 0.002,
+            "cel": 0.002,
+            "pu\u00e8\u203ain": 0.002,
+            "minute": 0.002,
+            "\u00e3\u00aenainte": 0.002,
+            "\u00e3\u017en": 0.002,
+            "weekend": 0.002,
+            "facultatea": 0.0041,
+            "poate": 0.0041,
+            "fi": 0.0041,
+            "\u00e3\u00aenchis\u00e4\u0192": 0.002,
+            "accesul": 0.002,
+            "litere": 0.002,
+            "duminic\u00e4\u0192": 0.002,
+            "participarea": 0.002,
+            "online": 0.0041,
+            "permis\u00e4\u0192": 0.002,
+            "s\u00e3\u00a2mb\u00e4\u0192t\u00e4\u0192": 0.002,
+            "participa": 0.002,
+            "dar": 0.002,
+            "\u00e3\u00aencurajat\u00e4\u0192": 0.002,
+            "contacte": 0.002,
+            "utile": 0.002,
+            "cei": 0.002,
+            "anul": 0.002,
+            "exista": 0.0041,
+            "facultativ": 0.002,
+            "programare": 0.002,
+            "competitiva": 0.002,
+            "mare": 0.002,
+            "el": 0.002,
+            "integrat": 0.002,
+            "cercul": 0.002,
+            "hai": 0.002,
+            "olimpiada": 0.002,
+            "intampla": 0.002,
+            "sambata": 0.002,
+            "dimineata": 0.002,
+            "acolo": 0.002,
+            "nivele": 0.002,
+            "lot": 0.002,
+            "alegeti": 0.002,
+            "unde": 0.0041,
+            "vreti": 0.002,
+            "mergeti": 0.0041,
+            "constant": 0.002,
+            "sunteti": 0.002,
+            "activi": 0.002,
+            "rezolvati": 0.002,
+            "probleme": 0.002,
+            "veti": 0.0041,
+            "putea": 0.002,
+            "obtine": 0.002,
+            "nota": 0.0061,
+            "pc": 0.002,
+            "nevoie": 0.002,
+            "prezenta": 0.002,
+            "activitate": 0.002,
+            "voi": 0.002,
+            "dori": 0.002,
+            "vad": 0.002,
+            "crestere": 0.002,
+            "evidenta": 0.002,
+            "ratingul": 0.002,
+            "codeforces": 0.002,
+            "indifierent": 0.002,
+            "incepeti": 0.002,
+            "discuta": 0.002,
+            "mult": 0.002,
+            "doua": 0.002,
+            "parte": 0.002,
+            "semestrului": 0.002,
+            "oricum": 0.002,
+            "scopul": 0.002,
+            "principal": 0.002,
+            "trebuie": 0.002,
+            "invatati": 0.002,
+            "lucruri": 0.002
         },
         "Sorina Predut": {
             "total": 0.5,
-            "total_words": 325,
-            "Marti,": 0.0031,
-            "5": 0.0031,
-            "noiembrie": 0.0031,
-            "in": 0.0246,
-            "intervalul": 0.0154,
-            "8-11,": 0.0031,
-            "sala": 0.0123,
-            "Google": 0.0062,
+            "total_words": 318,
+            "marti": 0.0063,
+            "noiembrie": 0.0063,
+            "in": 0.0252,
+            "intervalul": 0.0157,
+            "sala": 0.0126,
+            "google": 0.0063,
             "avem": 0.0031,
-            "programat": 0.0062,
+            "programat": 0.0063,
             "workshopul": 0.0031,
-            "Oracle": 0.0062,
-            "SQL": 0.0031,
-            "Tuning": 0.0031,
-            "-": 0.0031,
+            "oracle": 0.0063,
+            "sql": 0.0031,
+            "tuning": 0.0031,
             "partea": 0.0031,
-            "I,": 0.0031,
+            "i": 0.0031,
             "sustinut": 0.0031,
-            "de": 0.04,
+            "de": 0.0409,
             "specialist": 0.0031,
             "industrie": 0.0031,
-            "ing.": 0.0031,
-            "Valetin": 0.0031,
-            "Robu,": 0.0031,
-            "Technical": 0.0031,
-            "Leader.": 0.0031,
-            "Acesta": 0.0031,
-            "va": 0.0123,
+            "ing": 0.0031,
+            "valetin": 0.0031,
+            "robu": 0.0031,
+            "technical": 0.0031,
+            "leader": 0.0031,
+            "acesta": 0.0031,
+            "va": 0.0157,
             "avea": 0.0031,
             "loc": 0.0031,
             "format": 0.0031,
             "fizic": 0.0031,
-            "si": 0.0092,
+            "si": 0.0094,
             "online": 0.0031,
-            "pe": 0.0092,
+            "pe": 0.0094,
             "platforma": 0.0031,
-            "Zoom": 0.0031,
+            "zoom": 0.0031,
             "sau": 0.0031,
-            "Teams": 0.0031,
-            "(datele": 0.0031,
-            "conectare": 0.0062,
-            "pentru": 0.0092,
-            "workshop": 0.0062,
-            "vor": 0.0123,
-            "fi": 0.0092,
+            "teams": 0.0031,
+            "datele": 0.0063,
+            "conectare": 0.0094,
+            "pentru": 0.0126,
+            "workshop": 0.0063,
+            "vor": 0.0126,
+            "fi": 0.0094,
             "trimise": 0.0031,
             "ulterior": 0.0031,
-            "prin": 0.0031,
-            "email).": 0.0031,
-            "Pentru": 0.0031,
-            "a": 0.0062,
+            "prin": 0.0063,
+            "email": 0.0031,
+            "a": 0.0157,
             "putea": 0.0031,
             "inscrie": 0.0031,
-            "la": 0.0338,
+            "la": 0.0377,
             "acest": 0.0031,
-            "rog": 0.0062,
-            "sa": 0.0154,
-            "completati": 0.0062,
+            "rog": 0.0063,
+            "sa": 0.0157,
+            "completati": 0.0063,
             "urmatorul": 0.0031,
             "formular": 0.0031,
-            "Buna": 0.0062,
-            "ziua!": 0.0031,
-            "Nu": 0.0031,
-            "pot": 0.0123,
-            "tine": 0.0062,
-            "cursul": 0.0062,
-            "luni,": 0.0031,
-            "4.11": 0.0031,
-            "Orele": 0.0031,
-            "laborator": 0.0062,
+            "buna": 0.0063,
+            "ziua": 0.0031,
+            "nu": 0.0157,
+            "pot": 0.0126,
+            "tine": 0.0094,
+            "cursul": 0.0063,
+            "luni": 0.0031,
+            "orele": 0.0094,
+            "laborator": 0.0063,
             "se": 0.0031,
-            "tine.": 0.0031,
-            "Scuze": 0.0031,
+            "scuze": 0.0031,
             "disconfortul": 0.0031,
-            "creat.": 0.0031,
-            "Multumesc!": 0.0062,
-            "Am": 0.0062,
-            "creat": 0.0031,
+            "creat": 0.0063,
+            "multumesc": 0.0063,
+            "am": 0.0094,
             "userul": 0.0031,
-            "seria25": 0.0031,
-            "cu": 0.0062,
+            "seria": 0.0063,
+            "cu": 0.0063,
             "schema": 0.0031,
             "companie": 0.0031,
             "comerciala": 0.0031,
             "masinile": 0.0031,
             "virtuale": 0.0031,
-            "o21c": 0.0031,
-            "o23ai": 0.0031,
-            "facultate.": 0.0031,
-            "Gasiti": 0.0031,
-            "datele": 0.0031,
+            "o": 0.0126,
+            "c": 0.0031,
+            "ai": 0.0031,
+            "facultate": 0.0031,
+            "gasiti": 0.0031,
             "tot": 0.0031,
-            "fisierul": 0.0062,
-            "conectare_SQLDeveloper.txt": 0.0031,
-            "Din": 0.0031,
+            "fisierul": 0.0063,
+            "sqldeveloper": 0.0031,
+            "txt": 0.0031,
+            "din": 0.0094,
             "pacate": 0.0031,
-            "nu": 0.0123,
-            "orele": 0.0062,
-            "marti": 0.0031,
-            "12-14": 0.0031,
             "perioada": 0.0031,
-            "octombrie-noiembrie.": 0.0031,
-            "Azi": 0.0031,
+            "octombrie": 0.0031,
+            "azi": 0.0031,
             "face": 0.0031,
-            "o": 0.0062,
             "exceptie": 0.0031,
             "ca": 0.0031,
             "piarda": 0.0031,
             "nimeni": 0.0031,
-            "activitatea.": 0.0031,
-            "Dar": 0.0031,
+            "activitatea": 0.0031,
+            "dar": 0.0031,
             "incepere": 0.0031,
             "ora": 0.0031,
-            "13": 0.0031,
-            "221A.": 0.0062,
-            "Discutam": 0.0031,
-            "lab": 0.0031,
+            "discutam": 0.0031,
+            "lab": 0.0094,
             "despre": 0.0031,
             "solutie": 0.0031,
             "pt": 0.0031,
             "studentii": 0.0031,
-            "care": 0.0092,
+            "care": 0.0094,
             "ajunge": 0.0031,
-            "16-18.": 0.0031,
-            "dimineata!": 0.0031,
-            "Comisia": 0.0031,
+            "dimineata": 0.0031,
+            "comisia": 0.0031,
             "orar": 0.0031,
-            "m-a": 0.0031,
+            "m": 0.0031,
             "informat": 0.0031,
-            "c\u00c4\u0192": 0.0031,
-            "laboratorul": 0.0092,
-            "subgrupei": 0.0062,
-            "2522": 0.0031,
-            "este": 0.0062,
-            "mar\u00c8\u203ai,": 0.0031,
-            "\u00c3\u00aen": 0.0154,
-            "16:00-18:00,": 0.0031,
-            "Modificarea": 0.0031,
-            "vizibil\u00c4\u0192": 0.0031,
+            "c\u00e4\u0192": 0.0031,
+            "laboratorul": 0.0094,
+            "subgrupei": 0.0063,
+            "este": 0.0063,
+            "mar\u00e8\u203ai": 0.0031,
+            "\u00e3\u00aen": 0.0157,
+            "modificarea": 0.0031,
+            "vizibil\u00e4\u0192": 0.0031,
             "site": 0.0031,
-            "weekend.": 0.0031,
-            "Prin": 0.0031,
-            "urmare,": 0.0031,
-            "\u00c3\u00aencep\u00c3\u00a2nd": 0.0031,
-            "ast\u00c4\u0192zi,": 0.0031,
+            "weekend": 0.0031,
+            "urmare": 0.0031,
+            "\u00e3\u00aencep\u00e3\u00a2nd": 0.0031,
+            "ast\u00e4\u0192zi": 0.0031,
             "voi": 0.0031,
-            "desf\u00c4\u0192\u00c8\u2122ura": 0.0031,
+            "desf\u00e4\u0192\u00e8\u2122ura": 0.0031,
             "grupa": 0.0031,
-            "252": 0.0031,
-            "14:00-18:00.": 0.0031,
-            "Reamintesc": 0.0031,
+            "reamintesc": 0.0031,
             "ce": 0.0031,
-            "am": 0.0031,
-            "men\u00c8\u203aionat": 0.0031,
-            "ieri:": 0.0031,
-            "La": 0.0031,
-            "2521": 0.0031,
-            "participa": 0.0062,
-            "studen\u00c8\u203aii": 0.0031,
-            "s-au": 0.0031,
-            "\u00c3\u00aenscris": 0.0031,
-            "op\u00c8\u203aionalul": 0.0031,
-            "DAW": 0.0031,
-            "ASP.NET.": 0.0031,
-            "Ceilal\u00c8\u203ai": 0.0031,
-            "studen\u00c8\u203ai": 0.0031,
-            "distribui\u00c8\u203ai": 0.0031,
+            "men\u00e8\u203aionat": 0.0031,
+            "ieri": 0.0031,
+            "participa": 0.0063,
+            "studen\u00e8\u203aii": 0.0031,
+            "s": 0.0031,
+            "au": 0.0031,
+            "\u00e3\u00aenscris": 0.0031,
+            "op\u00e8\u203aionalul": 0.0031,
+            "daw": 0.0031,
+            "asp": 0.0031,
+            "net": 0.0031,
+            "ceilal\u00e8\u203ai": 0.0031,
+            "studen\u00e8\u203ai": 0.0031,
+            "distribui\u00e8\u203ai": 0.0031,
             "celelalte": 0.0031,
-            "3": 0.0031,
-            "subgrupe": 0.0031,
-            "din": 0.0062,
-            "seria": 0.0031,
-            "25.": 0.0031,
-            "Pute\u00c8\u203ai": 0.0031,
+            "subgrupe": 0.0063,
+            "pute\u00e8\u203ai": 0.0031,
             "oricare": 0.0031,
             "dintre": 0.0031,
             "cele": 0.0031,
-            "4": 0.0031,
-            "laboratoare": 0.0031,
+            "laboratoare": 0.0063,
             "ale": 0.0031,
             "seriei": 0.0031,
-            "25,": 0.0031,
-            "dac\u00c4\u0192": 0.0031,
-            "exist\u00c4\u0192": 0.0031,
-            "locuri": 0.0062,
-            "disponibile.": 0.0031,
-            "Completa\u00c8\u203ai": 0.0031,
-            "fi\u00c8\u2122ierul": 0.0031,
-            "distributie_lab,": 0.0062,
-            "sec\u00c8\u203aiunea": 0.0092,
-            "Files.": 0.0031,
+            "dac\u00e4\u0192": 0.0031,
+            "exist\u00e4\u0192": 0.0031,
+            "locuri": 0.0063,
+            "disponibile": 0.0031,
+            "completa\u00e8\u203ai": 0.0031,
+            "fi\u00e8\u2122ierul": 0.0031,
+            "distributie": 0.0063,
+            "sec\u00e8\u203aiunea": 0.0094,
+            "files": 0.0063,
             "adaugat": 0.0031,
             "formule": 0.0031,
-            "Files": 0.0031,
             "urmari": 0.0031,
             "mai": 0.0031,
             "usor": 0.0031,
             "nr": 0.0031,
             "libere": 0.0031,
-            "(maxim": 0.0031,
-            "20!)": 0.0031,
+            "maxim": 0.0031,
             "unei": 0.0031,
-            "subgrupe.": 0.0031,
-            "Va": 0.0031,
             "subgrupa": 0.0031,
             "veti": 0.0031,
-            "merge.": 0.0031,
-            "Chiar": 0.0031,
+            "merge": 0.0031,
+            "chiar": 0.0031,
             "daca": 0.0031,
             "prima": 0.0031,
             "tema": 0.0031,
@@ -2419,21 +1937,17 @@
             "deadline": 0.0031,
             "peste": 0.0031,
             "aproape": 0.0031,
-            "2": 0.0031,
             "saptamani": 0.0031,
             "bine": 0.0031,
             "incepeti": 0.0031,
             "lucrati": 0.0031,
             "inca": 0.0031,
-            "acum.": 0.0031,
-            "Verificati": 0.0031,
+            "acum": 0.0031,
+            "verificati": 0.0031,
             "fisierele": 0.0031,
             "text": 0.0031,
-            "teme_2511,": 0.0031,
-            "teme_2512,": 0.0031,
-            "teme_2521,": 0.0031,
-            "teme_2522": 0.0031,
-            "Materiale/laboratoare": 0.0031
+            "teme": 0.0126,
+            "materiale": 0.0031
         }
     }
 }

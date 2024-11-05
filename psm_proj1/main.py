@@ -1,5 +1,6 @@
 import numpy as np
 import json
+import re
 
 with open('data/quotes.json', 'r') as file:
     quotes = json.load(file)
@@ -19,8 +20,16 @@ for person in quotes:
 
     for quote in quotes[person]:
         total_quotes += 1
-        for word in quote.split():
+        s = quote
 
+        for punctuation in '''!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~''':
+            s = s.replace(punctuation, ' ')
+
+        for number in "0123456789":
+            s = s.replace(number, ' ')
+
+        for word in s.split():
+            word = word.lower()
             total_words += 1
             data['words'].setdefault(word, dict())
             data['words'][word].setdefault('total', 0)
