@@ -20,8 +20,8 @@ Script-ul [checker.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_p
 
 ![image](https://github.com/user-attachments/assets/ea363a33-e9dd-4086-89ec-ad1c6d62377d)
 
--- Pentru fiecare prof, **P(prof)** (numit iar total)
--- Pentru fiecare prof, si fiecare cuvant pe care l-a spus, **P(prof | cuvant)**
+- Pentru fiecare prof, **P(prof)** (numit iar total)
+- Pentru fiecare prof, si fiecare cuvant pe care l-a spus, **P(prof | cuvant)**
 
 ![image](https://github.com/user-attachments/assets/cf3a3a47-d537-4637-a05f-7ecf6fa0c8d0)
 
