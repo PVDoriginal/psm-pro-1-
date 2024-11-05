@@ -56,19 +56,25 @@ def processInput():
             if person == 'total':
                 continue
 
-            data['words'][word][person] = round(data['words'][word][person] / data['words'][word]['total'], 4)
+            data['words'][word][person] = data['words'][word][person] / data['words'][word]['total']
 
-        data['words'][word]['total'] = round(data['words'][word]['total'] / total_words, 4)
+        data['words'][word]['total'] = data['words'][word]['total'] / total_words
 
     for person in data['people']:
         for word in data['people'][person]:
             if word == 'total' or word == 'total_words':
                 continue
 
-            data['people'][person][word] = round(data['people'][person][word] / data['people'][person]['total_words'], 4)
+            data['people'][person][word] = data['people'][person][word] / data['people'][person]['total_words']
 
-        data['people'][person]['total'] = round(data['people'][person]['total'] / total_quotes, 4)
-        
+        data['people'][person]['total'] = data['people'][person]['total'] / total_quotes
+
+    for word in data['words']:
+        data['words'][word].setdefault('none', 0.05)
+        for person in data['words'][word]:
+            if person != 'total' and person != 'none':
+                data['words'][word][person] -= 0.05 / (len(data['words'][word])-2)
+
     print("read and processed")
     return data
 
