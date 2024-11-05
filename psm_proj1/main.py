@@ -1,74 +1,10 @@
 import numpy as np
 import json
 import re
+import checker
 
-with open('data/quotes.json', 'r') as file:
-    quotes = json.load(file)
-
-data = dict()  # final data
-data['words'] = dict()  # probabilities on each word
-data['people'] = dict()  # probabilities on each person
-
-total_quotes = 0
-total_words = 0
-
-def trimCitat(s):
-    for punctuation in '''!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~''':
-        s = s.replace(punctuation, ' ')
-
-    for number in "0123456789":
-        s = s.replace(number, ' ')
-        
-    return s
-
-for person in quotes:
-
-    data['people'][person] = dict()
-    data['people'][person]['total'] = len(quotes[person])
-    data['people'][person].setdefault('total_words', 0)
-
-    for quote in quotes[person]:
-        total_quotes += 1
-        s = quote
-        
-        s = trimCitat(s)
-        
-        for word in s.split():
-            word = word.lower()
-            total_words += 1
-            data['words'].setdefault(word, dict())
-            data['words'][word].setdefault('total', 0)
-
-            data['words'][word].setdefault(person, 0)
-
-            data['words'][word]["total"] += 1
-            data['words'][word][person] += 1
-
-            data['people'][person].setdefault(word, 0)
-            data['people'][person][word] += 1
-
-            data['people'][person]['total_words'] += 1
-
-for word in data['words']:
-    for person in data['words'][word]:
-        if person == 'total':
-            continue
-
-        data['words'][word][person] = round(data['words'][word][person] / data['words'][word]['total'], 4)
-
-    data['words'][word]['total'] = round(data['words'][word]['total'] / total_words, 4)
-
-for person in data['people']:
-    for word in data['people'][person]:
-        if word == 'total' or word == 'total_words':
-            continue
-
-        data['people'][person][word] = round(data['people'][person][word] / data['people'][person]['total_words'], 4)
-
-    data['people'][person]['total'] = round(data['people'][person]['total'] / total_quotes, 4)
-
-with open('data/data.json', 'w') as file:
-    json.dump(data, file, indent=4)
+with open('data/data.json', 'r') as file:
+    data = json.load(file)
     
 def calcTeacher(citat,teacher):
     multiplication = 1
@@ -90,12 +26,30 @@ def calcTeacher(citat,teacher):
     return 1 - multiplication
         
 def main():
-    citat_nou = input()
-    citat_nou = trimCitat(citat_nou)
     
-    for teacher in data['people'].keys():
-        print(teacher, end=": ")
-        print(calcTeacher(citat_nou,teacher))
+    print("Introduceti un citat: ", end = "")
+    citat_nou = input()
+    while(citat_nou != "-1"):
+        citat_nou = checker.trimCitat(citat_nou)
+        
+        solutions = []
+        
+        for teacher in data['people'].keys():
+            chance = calcTeacher(citat_nou,teacher)
+            solutions.append([teacher,chance])
+            
+        solutions = sorted(solutions, key = lambda x : -x[1])
+        
+        print("")
+        print("Cel mai probabil, citatul a fost zis de: ", solutions[0][0])
+        print("")
+        for i in range(len(solutions)):
+            print(solutions[i][0], end=": ")
+            print(solutions[i][1])
+        
+        print("Introduceti un citat: ", end ="")
+        citat_nou = input()
+
     
 
 if __name__=="__main__":
