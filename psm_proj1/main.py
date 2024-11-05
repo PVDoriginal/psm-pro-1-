@@ -10,6 +10,7 @@ def calcTeacher(citat,teacher):
     multiplication = 1
     
     for word in citat.split():
+        word = word.lower()
         #don't consider words not in our database
         if word not in data['words'].keys():
             continue
