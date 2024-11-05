@@ -38,13 +38,14 @@
             "none": 0.05
         },
         "si": {
-            "total": 0.022403795466526093,
-            "Marius Dumitran": 0.19166666666666668,
-            "Sorina Predut": 0.062254901960784315,
-            "Cristian Rusu": 0.2740196078431372,
-            "Cezara Benegui": 0.26225490196078427,
-            "Mihai Bucataru": 0.03872549019607843,
-            "Paul Irofti": 0.12107843137254903,
+            "total": 0.02503953610964681,
+            "Marius Dumitran": 0.20338345864661653,
+            "Sorina Predut": 0.05601503759398496,
+            "Cristian Rusu": 0.24548872180451128,
+            "Cezara Benegui": 0.2349624060150376,
+            "Mihai Bucataru": 0.03496240601503759,
+            "Paul Irofti": 0.10864661654135338,
+            "Andrei Paun": 0.06654135338345864,
             "none": 0.05
         },
         "la": {
@@ -60,12 +61,12 @@
             "none": 0.05
         },
         "aveti": {
-            "total": 0.0031628887717448603,
-            "Marius Dumitran": 0.15666666666666665,
-            "Sorina Predut": 0.24,
-            "Cristian Rusu": 0.4066666666666667,
-            "Cezara Benegui": 0.07333333333333333,
-            "Mihai Bucataru": 0.07333333333333333,
+            "total": 0.003426462836056932,
+            "Marius Dumitran": 0.22076923076923077,
+            "Sorina Predut": 0.22076923076923077,
+            "Cristian Rusu": 0.37461538461538463,
+            "Cezara Benegui": 0.06692307692307693,
+            "Mihai Bucataru": 0.06692307692307693,
             "none": 0.05
         },
         "o": {
@@ -114,10 +115,10 @@
             "none": 0.05
         },
         "puteti": {
-            "total": 0.0013178703215603585,
-            "Marius Dumitran": 0.38333333333333336,
-            "Sorina Predut": 0.18333333333333335,
-            "Cristian Rusu": 0.38333333333333336,
+            "total": 0.0015814443858724301,
+            "Marius Dumitran": 0.31666666666666665,
+            "Sorina Predut": 0.31666666666666665,
+            "Cristian Rusu": 0.31666666666666665,
             "none": 0.05
         },
         "aduce": {
@@ -126,14 +127,14 @@
             "none": 0.05
         },
         "in": {
-            "total": 0.01845018450184502,
-            "Marius Dumitran": 0.15,
-            "Sorina Predut": 0.16428571428571428,
-            "Cristian Rusu": 0.2642857142857143,
-            "Cezara Benegui": 0.1357142857142857,
-            "Mihai Bucataru": 0.02142857142857143,
-            "Paul Irofti": 0.17857142857142858,
-            "Andrei Paun": 0.03571428571428571,
+            "total": 0.021876647337901952,
+            "Marius Dumitran": 0.14948364888123924,
+            "Sorina Predut": 0.19767641996557658,
+            "Cristian Rusu": 0.22177280550774525,
+            "Cezara Benegui": 0.11333907056798623,
+            "Mihai Bucataru": 0.01695352839931153,
+            "Paul Irofti": 0.14948364888123924,
+            "Andrei Paun": 0.1012908777969019,
             "none": 0.05
         },
         "format": {
@@ -196,14 +197,14 @@
             "none": 0.05
         },
         "va": {
-            "total": 0.012915129151291513,
-            "Marius Dumitran": 0.11530612244897959,
-            "Sorina Predut": 0.09489795918367347,
-            "Cristian Rusu": 0.4622448979591837,
-            "Cezara Benegui": 0.09489795918367347,
-            "Mihai Bucataru": 0.013265306122448977,
-            "Paul Irofti": 0.11530612244897959,
-            "Andrei Paun": 0.05408163265306122,
+            "total": 0.013442277279915656,
+            "Marius Dumitran": 0.11050420168067226,
+            "Sorina Predut": 0.09089635854341736,
+            "Cristian Rusu": 0.44383753501400564,
+            "Cezara Benegui": 0.09089635854341736,
+            "Mihai Bucataru": 0.012464985994397758,
+            "Paul Irofti": 0.11050420168067226,
+            "Andrei Paun": 0.09089635854341736,
             "none": 0.05
         },
         "anunt": {
@@ -268,15 +269,15 @@
             "none": 0.05
         },
         "sa": {
-            "total": 0.027411702688455455,
-            "Marius Dumitran": 0.1283653846153846,
-            "Sorina Predut": 0.10913461538461539,
-            "Cristian Rusu": 0.21490384615384614,
-            "Cezara Benegui": 0.14759615384615385,
-            "Mihai Bucataru": 0.09951923076923076,
-            "Paul Irofti": 0.16682692307692307,
-            "Iulia Hirica": 0.012980769230769231,
-            "Andrei Paun": 0.07067307692307692,
+            "total": 0.029256721138639957,
+            "Marius Dumitran": 0.11987612612612611,
+            "Sorina Predut": 0.10185810810810811,
+            "Cristian Rusu": 0.2009572072072072,
+            "Cezara Benegui": 0.13789414414414414,
+            "Mihai Bucataru": 0.0928490990990991,
+            "Paul Irofti": 0.15591216216216217,
+            "Iulia Hirica": 0.011768018018018018,
+            "Andrei Paun": 0.12888513513513514,
             "none": 0.05
         },
         "revin": {
@@ -296,10 +297,10 @@
             "none": 0.05
         },
         "sala": {
-            "total": 0.0018450184501845018,
-            "Marius Dumitran": 0.26904761904761904,
-            "Sorina Predut": 0.5547619047619047,
-            "Cristian Rusu": 0.1261904761904762,
+            "total": 0.0021085925144965737,
+            "Marius Dumitran": 0.35833333333333334,
+            "Sorina Predut": 0.48333333333333334,
+            "Cristian Rusu": 0.10833333333333334,
             "none": 0.05
         },
         "nu": {
@@ -351,14 +352,14 @@
             "none": 0.05
         },
         "daca": {
-            "total": 0.008170795993674223,
-            "Marius Dumitran": 0.12188940092165898,
-            "Sorina Predut": 0.08963133640552995,
-            "Cristian Rusu": 0.25092165898617513,
-            "Cezara Benegui": 0.08963133640552995,
-            "Mihai Bucataru": 0.12188940092165898,
-            "Paul Irofti": 0.154147465437788,
-            "Andrei Paun": 0.12188940092165898,
+            "total": 0.008697944122298365,
+            "Marius Dumitran": 0.14437229437229437,
+            "Sorina Predut": 0.11406926406926407,
+            "Cristian Rusu": 0.23528138528138529,
+            "Cezara Benegui": 0.08376623376623377,
+            "Mihai Bucataru": 0.11406926406926407,
+            "Paul Irofti": 0.14437229437229437,
+            "Andrei Paun": 0.11406926406926407,
             "none": 0.05
         },
         "gasiti": {
@@ -385,9 +386,9 @@
             "none": 0.05
         },
         "marti": {
-            "total": 0.0010542962572482868,
-            "Marius Dumitran": 0.475,
-            "Sorina Predut": 0.475,
+            "total": 0.0013178703215603585,
+            "Marius Dumitran": 0.375,
+            "Sorina Predut": 0.575,
             "none": 0.05
         },
         "miercuri": {
@@ -490,9 +491,9 @@
             "none": 0.05
         },
         "informatii": {
-            "total": 0.0005271481286241434,
-            "Marius Dumitran": 0.475,
-            "Cristian Rusu": 0.475,
+            "total": 0.0007907221929362151,
+            "Marius Dumitran": 0.6416666666666666,
+            "Cristian Rusu": 0.3083333333333333,
             "none": 0.05
         },
         "general": {
@@ -507,9 +508,9 @@
             "none": 0.05
         },
         "completati": {
-            "total": 0.0007907221929362151,
-            "Marius Dumitran": 0.3083333333333333,
-            "Sorina Predut": 0.6416666666666666,
+            "total": 0.0010542962572482868,
+            "Marius Dumitran": 0.225,
+            "Sorina Predut": 0.725,
             "none": 0.05
         },
         "acest": {
@@ -586,20 +587,20 @@
             "Sorina Predut": 0.6416666666666666,
             "none": 0.05
         },
-        "men\u00e8\u203aiunea": {
+        "mentiunea": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
         "ca": {
-            "total": 0.010542962572482868,
-            "Marius Dumitran": 0.09285714285714286,
-            "Sorina Predut": 0.04285714285714286,
-            "Cristian Rusu": 0.34285714285714286,
-            "Cezara Benegui": 0.16785714285714284,
-            "Mihai Bucataru": 0.09285714285714286,
-            "Paul Irofti": 0.14285714285714285,
-            "Andrei Paun": 0.06785714285714285,
+            "total": 0.011597258829731154,
+            "Marius Dumitran": 0.08376623376623377,
+            "Sorina Predut": 0.06103896103896103,
+            "Cristian Rusu": 0.31103896103896106,
+            "Cezara Benegui": 0.15194805194805194,
+            "Mihai Bucataru": 0.08376623376623377,
+            "Paul Irofti": 0.1292207792207792,
+            "Andrei Paun": 0.1292207792207792,
             "none": 0.05
         },
         "componente": {
@@ -721,7 +722,7 @@
             "Cristian Rusu": 0.475,
             "none": 0.05
         },
-        "demonstra\u00e8\u203aia": {
+        "demonstratia": {
             "total": 0.0005271481286241434,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -729,12 +730,6 @@
         "corectitudinii": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
-            "none": 0.05
-        },
-        "\u00e8\u2122i": {
-            "total": 0.0021085925144965737,
-            "Marius Dumitran": 0.35,
-            "Andrei Paun": 0.6,
             "none": 0.05
         },
         "cere": {
@@ -756,14 +751,17 @@
             "Paul Irofti": 0.475,
             "none": 0.05
         },
-        "urm\u00e4\u0192toarele": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
+        "urmatoarele": {
+            "total": 0.0005271481286241434,
+            "Marius Dumitran": 0.475,
+            "Cristian Rusu": 0.475,
             "none": 0.05
         },
-        "s\u00e4\u0192pt\u00e4\u0192m\u00e3\u00a2ni": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
+        "saptamani": {
+            "total": 0.0007907221929362151,
+            "Marius Dumitran": 0.31666666666666665,
+            "Sorina Predut": 0.31666666666666665,
+            "Cristian Rusu": 0.31666666666666665,
             "none": 0.05
         },
         "octombrie": {
@@ -806,10 +804,13 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "ast\u00e4\u0192zi": {
-            "total": 0.0005271481286241434,
-            "Marius Dumitran": 0.475,
-            "Sorina Predut": 0.475,
+        "astazi": {
+            "total": 0.0021085925144965737,
+            "Marius Dumitran": 0.115,
+            "Sorina Predut": 0.24,
+            "Cristian Rusu": 0.115,
+            "Mihai Bucataru": 0.365,
+            "Paul Irofti": 0.115,
             "none": 0.05
         },
         "programului": {
@@ -818,10 +819,11 @@
             "none": 0.05
         },
         "toata": {
-            "total": 0.0013178703215603585,
-            "Marius Dumitran": 0.18333333333333335,
-            "Cristian Rusu": 0.5833333333333333,
-            "Paul Irofti": 0.18333333333333335,
+            "total": 0.0015814443858724301,
+            "Marius Dumitran": 0.15416666666666665,
+            "Cristian Rusu": 0.4875,
+            "Paul Irofti": 0.15416666666666665,
+            "Andrei Paun": 0.15416666666666665,
             "none": 0.05
         },
         "program": {
@@ -829,7 +831,7 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "preg\u00e4\u0192tire": {
+        "pregatire": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -855,22 +857,17 @@
             "Cristian Rusu": 0.3083333333333333,
             "none": 0.05
         },
-        "jum\u00e4\u0192tate": {
+        "jumatate": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "condi\u00e8\u203aii": {
+        "conditii": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
         "speciale": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
-            "none": 0.05
-        },
-        "informa\u00e8\u203aii": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -913,7 +910,7 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "participan\u00e8\u203aii": {
+        "participantii": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -928,7 +925,7 @@
             "Andrei Paun": 0.0869047619047619,
             "none": 0.05
         },
-        "a\u00e8\u2122tepta\u00e8\u203ai": {
+        "asteptati": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -943,32 +940,15 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "dac\u00e4\u0192": {
-            "total": 0.0005271481286241434,
-            "Marius Dumitran": 0.475,
-            "Sorina Predut": 0.475,
-            "none": 0.05
-        },
-        "ave\u00e8\u203ai": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
-            "none": 0.05
-        },
         "laptop": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aen": {
-            "total": 0.0031628887717448603,
-            "Marius Dumitran": 0.06666666666666667,
-            "Sorina Predut": 0.4,
-            "Andrei Paun": 0.48333333333333334,
-            "none": 0.05
-        },
-        "regul\u00e4\u0192": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
+        "regula": {
+            "total": 0.0007907221929362151,
+            "Marius Dumitran": 0.3083333333333333,
+            "Cezara Benegui": 0.6416666666666666,
             "none": 0.05
         },
         "avem": {
@@ -981,12 +961,7 @@
             "Andrei Paun": 0.13452380952380952,
             "none": 0.05
         },
-        "sal\u00e4\u0192": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
-            "none": 0.05
-        },
-        "disponibil\u00e4\u0192": {
+        "disponibila": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -997,7 +972,7 @@
             "Sorina Predut": 0.725,
             "none": 0.05
         },
-        "anun\u00e8\u203aate": {
+        "anuntate": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -1023,9 +998,10 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "veni\u00e8\u203ai": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
+        "veniti": {
+            "total": 0.0005271481286241434,
+            "Marius Dumitran": 0.475,
+            "Iulia Hirica": 0.475,
             "none": 0.05
         },
         "cel": {
@@ -1036,7 +1012,7 @@
             "Iulia Hirica": 0.2375,
             "none": 0.05
         },
-        "pu\u00e8\u203ain": {
+        "putin": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -1046,14 +1022,10 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aenainte": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
-            "none": 0.05
-        },
-        "\u00e3\u017en": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
+        "inainte": {
+            "total": 0.0005271481286241434,
+            "Marius Dumitran": 0.475,
+            "Cristian Rusu": 0.475,
             "none": 0.05
         },
         "weekend": {
@@ -1086,7 +1058,7 @@
             "Paul Irofti": 0.075,
             "none": 0.05
         },
-        "\u00e3\u00aenchis\u00e4\u0192": {
+        "inchisa": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -1101,7 +1073,7 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "duminic\u00e4\u0192": {
+        "duminica": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -1118,13 +1090,13 @@
             "Cristian Rusu": 0.38333333333333336,
             "none": 0.05
         },
-        "permis\u00e4\u0192": {
+        "permisa": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "s\u00e3\u00a2mb\u00e4\u0192t\u00e4\u0192": {
-            "total": 0.0002635740643120717,
+        "sambata": {
+            "total": 0.0005271481286241434,
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
@@ -1143,7 +1115,7 @@
             "Andrei Paun": 0.24,
             "none": 0.05
         },
-        "\u00e3\u00aencurajat\u00e4\u0192": {
+        "incurajata": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -1173,10 +1145,11 @@
             "none": 0.05
         },
         "exista": {
-            "total": 0.0013178703215603585,
-            "Marius Dumitran": 0.38333333333333336,
-            "Cezara Benegui": 0.38333333333333336,
-            "Mihai Bucataru": 0.18333333333333335,
+            "total": 0.0015814443858724301,
+            "Marius Dumitran": 0.3208333333333333,
+            "Sorina Predut": 0.15416666666666665,
+            "Cezara Benegui": 0.3208333333333333,
+            "Mihai Bucataru": 0.15416666666666665,
             "none": 0.05
         },
         "facultativ": {
@@ -1238,11 +1211,6 @@
             "Marius Dumitran": 0.23333333333333334,
             "Sorina Predut": 0.23333333333333334,
             "Cezara Benegui": 0.48333333333333334,
-            "none": 0.05
-        },
-        "sambata": {
-            "total": 0.0002635740643120717,
-            "Marius Dumitran": 0.95,
             "none": 0.05
         },
         "dimineata": {
@@ -1432,11 +1400,11 @@
             "none": 0.05
         },
         "doua": {
-            "total": 0.0015814443858724301,
-            "Marius Dumitran": 0.15416666666666665,
-            "Sorina Predut": 0.15416666666666665,
-            "Cristian Rusu": 0.4875,
-            "Paul Irofti": 0.15416666666666665,
+            "total": 0.0018450184501845018,
+            "Marius Dumitran": 0.13035714285714284,
+            "Sorina Predut": 0.13035714285714284,
+            "Cristian Rusu": 0.41607142857142854,
+            "Paul Irofti": 0.2732142857142857,
             "none": 0.05
         },
         "parte": {
@@ -1489,27 +1457,28 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "t\u00e3\u00a2c": {
+        "tac": {
             "total": 0.0010542962572482868,
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
         "asta": {
-            "total": 0.0036900369003690036,
-            "Marius Dumitran": 0.20428571428571426,
-            "Mihai Bucataru": 0.06142857142857142,
-            "Paul Irofti": 0.49,
-            "Iulia Hirica": 0.06142857142857142,
-            "Andrei Paun": 0.13285714285714284,
+            "total": 0.004217185028993147,
+            "Marius Dumitran": 0.1775,
+            "Mihai Bucataru": 0.0525,
+            "Paul Irofti": 0.4275,
+            "Iulia Hirica": 0.0525,
+            "Andrei Paun": 0.24,
             "none": 0.05
         },
         "ma": {
-            "total": 0.002635740643120717,
-            "Marius Dumitran": 0.29,
-            "Cristian Rusu": 0.19,
-            "Mihai Bucataru": 0.19,
-            "Paul Irofti": 0.19,
-            "Iulia Hirica": 0.09000000000000001,
+            "total": 0.0028993147074327886,
+            "Marius Dumitran": 0.26439393939393935,
+            "Cristian Rusu": 0.1734848484848485,
+            "Mihai Bucataru": 0.1734848484848485,
+            "Paul Irofti": 0.1734848484848485,
+            "Iulia Hirica": 0.08257575757575758,
+            "Andrei Paun": 0.08257575757575758,
             "none": 0.05
         },
         "duce": {
@@ -1550,12 +1519,12 @@
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "\u00e4\u0192hhhhhh": {
+        "ahhhhhh": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
         },
-        "\u00e4\u0192hhhhh": {
+        "ahhhhh": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -1618,10 +1587,11 @@
             "none": 0.05
         },
         "stiu": {
-            "total": 0.0007907221929362151,
-            "Marius Dumitran": 0.31666666666666665,
-            "Cristian Rusu": 0.31666666666666665,
-            "Paul Irofti": 0.31666666666666665,
+            "total": 0.0010542962572482868,
+            "Marius Dumitran": 0.2375,
+            "Cristian Rusu": 0.2375,
+            "Paul Irofti": 0.2375,
+            "Andrei Paun": 0.2375,
             "none": 0.05
         },
         "blah": {
@@ -1681,9 +1651,10 @@
             "none": 0.05
         },
         "frica": {
-            "total": 0.0005271481286241434,
-            "Marius Dumitran": 0.475,
-            "Cristian Rusu": 0.475,
+            "total": 0.0007907221929362151,
+            "Marius Dumitran": 0.31666666666666665,
+            "Cristian Rusu": 0.31666666666666665,
+            "Andrei Paun": 0.31666666666666665,
             "none": 0.05
         },
         "ating": {
@@ -1882,11 +1853,12 @@
             "none": 0.05
         },
         "cand": {
-            "total": 0.003426462836056932,
-            "Marius Dumitran": 0.06442307692307693,
-            "Cristian Rusu": 0.2951923076923077,
-            "Mihai Bucataru": 0.14134615384615384,
-            "Paul Irofti": 0.44903846153846155,
+            "total": 0.0036900369003690036,
+            "Marius Dumitran": 0.06142857142857142,
+            "Cristian Rusu": 0.2757142857142857,
+            "Mihai Bucataru": 0.13285714285714284,
+            "Paul Irofti": 0.41857142857142854,
+            "Andrei Paun": 0.06142857142857142,
             "none": 0.05
         },
         "te": {
@@ -1999,7 +1971,7 @@
             "Andrei Paun": 0.3233333333333333,
             "none": 0.05
         },
-        "t\u00e3\u00a2\u00e3\u00a2c": {
+        "taac": {
             "total": 0.0002635740643120717,
             "Marius Dumitran": 0.95,
             "none": 0.05
@@ -2227,10 +2199,11 @@
             "none": 0.05
         },
         "multumesc": {
-            "total": 0.0013178703215603585,
-            "Sorina Predut": 0.38333333333333336,
-            "Cristian Rusu": 0.38333333333333336,
-            "Cezara Benegui": 0.18333333333333335,
+            "total": 0.0015814443858724301,
+            "Sorina Predut": 0.3208333333333333,
+            "Cristian Rusu": 0.3208333333333333,
+            "Cezara Benegui": 0.15416666666666665,
+            "Andrei Paun": 0.15416666666666665,
             "none": 0.05
         },
         "userul": {
@@ -2284,9 +2257,9 @@
             "none": 0.05
         },
         "fisierul": {
-            "total": 0.0007907221929362151,
-            "Sorina Predut": 0.6416666666666666,
-            "Cristian Rusu": 0.3083333333333333,
+            "total": 0.0010542962572482868,
+            "Sorina Predut": 0.725,
+            "Cristian Rusu": 0.225,
             "none": 0.05
         },
         "sqldeveloper": {
@@ -2365,9 +2338,9 @@
             "none": 0.05
         },
         "studentii": {
-            "total": 0.0005271481286241434,
-            "Sorina Predut": 0.475,
-            "Cezara Benegui": 0.475,
+            "total": 0.0007907221929362151,
+            "Sorina Predut": 0.6416666666666666,
+            "Cezara Benegui": 0.3083333333333333,
             "none": 0.05
         },
         "ajunge": {
@@ -2401,12 +2374,6 @@
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "c\u00e4\u0192": {
-            "total": 0.0010542962572482868,
-            "Sorina Predut": 0.225,
-            "Andrei Paun": 0.725,
-            "none": 0.05
-        },
         "laboratorul": {
             "total": 0.0007907221929362151,
             "Sorina Predut": 0.95,
@@ -2417,17 +2384,12 @@
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "mar\u00e8\u203ai": {
-            "total": 0.0002635740643120717,
-            "Sorina Predut": 0.95,
-            "none": 0.05
-        },
         "modificarea": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "vizibil\u00e4\u0192": {
+        "vizibila": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
@@ -2443,12 +2405,12 @@
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aencep\u00e3\u00a2nd": {
+        "incepand": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "desf\u00e4\u0192\u00e8\u2122ura": {
+        "desfasura": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
@@ -2459,17 +2421,12 @@
             "Cristian Rusu": 0.475,
             "none": 0.05
         },
-        "men\u00e8\u203aionat": {
+        "mentionat": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
         },
         "ieri": {
-            "total": 0.0002635740643120717,
-            "Sorina Predut": 0.95,
-            "none": 0.05
-        },
-        "studen\u00e8\u203aii": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
@@ -2483,12 +2440,12 @@
             "Paul Irofti": 0.07333333333333333,
             "none": 0.05
         },
-        "\u00e3\u00aenscris": {
+        "inscris": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "op\u00e8\u203aionalul": {
+        "optionalul": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
@@ -2508,17 +2465,18 @@
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "ceilal\u00e8\u203ai": {
-            "total": 0.0002635740643120717,
+        "ceilalti": {
+            "total": 0.0005271481286241434,
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "studen\u00e8\u203ai": {
-            "total": 0.0002635740643120717,
-            "Sorina Predut": 0.95,
+        "studenti": {
+            "total": 0.004217185028993147,
+            "Sorina Predut": 0.0375,
+            "Cristian Rusu": 0.9125,
             "none": 0.05
         },
-        "distribui\u00e8\u203ai": {
+        "distribuiti": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
@@ -2530,11 +2488,6 @@
         },
         "subgrupe": {
             "total": 0.0005271481286241434,
-            "Sorina Predut": 0.95,
-            "none": 0.05
-        },
-        "pute\u00e8\u203ai": {
-            "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
         },
@@ -2567,11 +2520,6 @@
             "Mihai Bucataru": 0.31666666666666665,
             "none": 0.05
         },
-        "exist\u00e4\u0192": {
-            "total": 0.0002635740643120717,
-            "Sorina Predut": 0.95,
-            "none": 0.05
-        },
         "locuri": {
             "total": 0.0005271481286241434,
             "Sorina Predut": 0.95,
@@ -2582,24 +2530,15 @@
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "completa\u00e8\u203ai": {
-            "total": 0.0002635740643120717,
-            "Sorina Predut": 0.95,
-            "none": 0.05
-        },
-        "fi\u00e8\u2122ierul": {
-            "total": 0.0002635740643120717,
-            "Sorina Predut": 0.95,
-            "none": 0.05
-        },
         "distributie": {
             "total": 0.0005271481286241434,
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "sec\u00e8\u203aiunea": {
-            "total": 0.0007907221929362151,
-            "Sorina Predut": 0.95,
+        "sectiunea": {
+            "total": 0.0010542962572482868,
+            "Sorina Predut": 0.725,
+            "Cristian Rusu": 0.225,
             "none": 0.05
         },
         "files": {
@@ -2680,12 +2619,6 @@
         "aproape": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
-            "none": 0.05
-        },
-        "saptamani": {
-            "total": 0.0005271481286241434,
-            "Sorina Predut": 0.475,
-            "Cristian Rusu": 0.475,
             "none": 0.05
         },
         "lucrati": {
@@ -2779,11 +2712,6 @@
             "Sorina Predut": 0.95,
             "none": 0.05
         },
-        "ceilalti": {
-            "total": 0.0002635740643120717,
-            "Sorina Predut": 0.95,
-            "none": 0.05
-        },
         "impartiti": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
@@ -2848,7 +2776,7 @@
             "Andrei Paun": 0.10111111111111111,
             "none": 0.05
         },
-        "func\u00e8\u203aioneaz\u00e4\u0192": {
+        "functioneaza": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
             "none": 0.05
@@ -2950,9 +2878,10 @@
             "none": 0.05
         },
         "da": {
-            "total": 0.0005271481286241434,
-            "Sorina Predut": 0.475,
-            "Paul Irofti": 0.475,
+            "total": 0.0007907221929362151,
+            "Sorina Predut": 0.31666666666666665,
+            "Paul Irofti": 0.31666666666666665,
+            "Andrei Paun": 0.31666666666666665,
             "none": 0.05
         },
         "n": {
@@ -3002,14 +2931,6 @@
         "sectoare": {
             "total": 0.0002635740643120717,
             "Sorina Predut": 0.95,
-            "none": 0.05
-        },
-        "astazi": {
-            "total": 0.0015814443858724301,
-            "Sorina Predut": 0.15416666666666665,
-            "Cristian Rusu": 0.15416666666666665,
-            "Mihai Bucataru": 0.4875,
-            "Paul Irofti": 0.15416666666666665,
             "none": 0.05
         },
         "folder": {
@@ -3206,11 +3127,6 @@
             "Paul Irofti": 0.475,
             "none": 0.05
         },
-        "inainte": {
-            "total": 0.0002635740643120717,
-            "Cristian Rusu": 0.95,
-            "none": 0.05
-        },
         "sinucida": {
             "total": 0.0002635740643120717,
             "Cristian Rusu": 0.95,
@@ -3243,11 +3159,6 @@
         },
         "dragi": {
             "total": 0.003426462836056932,
-            "Cristian Rusu": 0.95,
-            "none": 0.05
-        },
-        "studenti": {
-            "total": 0.003953610964681075,
             "Cristian Rusu": 0.95,
             "none": 0.05
         },
@@ -3310,10 +3221,11 @@
             "none": 0.05
         },
         "ii": {
-            "total": 0.0007907221929362151,
-            "Cristian Rusu": 0.31666666666666665,
-            "Mihai Bucataru": 0.31666666666666665,
-            "Paul Irofti": 0.31666666666666665,
+            "total": 0.0010542962572482868,
+            "Cristian Rusu": 0.2375,
+            "Mihai Bucataru": 0.2375,
+            "Paul Irofti": 0.2375,
+            "Andrei Paun": 0.2375,
             "none": 0.05
         },
         "examenele": {
@@ -3348,10 +3260,11 @@
             "none": 0.05
         },
         "ati": {
-            "total": 0.0023721665788086453,
-            "Cristian Rusu": 0.7611111111111111,
-            "Mihai Bucataru": 0.09444444444444444,
-            "Paul Irofti": 0.09444444444444444,
+            "total": 0.0028993147074327886,
+            "Cristian Rusu": 0.6238636363636364,
+            "Mihai Bucataru": 0.07840909090909091,
+            "Paul Irofti": 0.07840909090909091,
+            "Andrei Paun": 0.1693181818181818,
             "none": 0.05
         },
         "promovat": {
@@ -3562,11 +3475,6 @@
             "none": 0.05
         },
         "promovati": {
-            "total": 0.0002635740643120717,
-            "Cristian Rusu": 0.95,
-            "none": 0.05
-        },
-        "urmatoarele": {
             "total": 0.0002635740643120717,
             "Cristian Rusu": 0.95,
             "none": 0.05
@@ -4241,11 +4149,6 @@
             "Andrei Paun": 0.15,
             "none": 0.05
         },
-        "sectiunea": {
-            "total": 0.0002635740643120717,
-            "Cristian Rusu": 0.95,
-            "none": 0.05
-        },
         "postate": {
             "total": 0.0002635740643120717,
             "Cristian Rusu": 0.95,
@@ -4277,8 +4180,9 @@
             "none": 0.05
         },
         "batut": {
-            "total": 0.0002635740643120717,
-            "Cristian Rusu": 0.95,
+            "total": 0.0005271481286241434,
+            "Cristian Rusu": 0.475,
+            "Andrei Paun": 0.475,
             "none": 0.05
         },
         "www": {
@@ -4614,11 +4518,6 @@
             "Paul Irofti": 0.475,
             "none": 0.05
         },
-        "regula": {
-            "total": 0.0005271481286241434,
-            "Cezara Benegui": 0.95,
-            "none": 0.05
-        },
         "gruparii": {
             "total": 0.0002635740643120717,
             "Cezara Benegui": 0.95,
@@ -4814,9 +4713,10 @@
             "none": 0.05
         },
         "il": {
-            "total": 0.0007907221929362151,
-            "Cezara Benegui": 0.3083333333333333,
-            "Paul Irofti": 0.6416666666666666,
+            "total": 0.0013178703215603585,
+            "Cezara Benegui": 0.18333333333333335,
+            "Paul Irofti": 0.38333333333333336,
+            "Andrei Paun": 0.38333333333333336,
             "none": 0.05
         },
         "completezi": {
@@ -4872,9 +4772,10 @@
             "none": 0.05
         },
         "iti": {
-            "total": 0.0005271481286241434,
-            "Cezara Benegui": 0.475,
-            "Paul Irofti": 0.475,
+            "total": 0.0013178703215603585,
+            "Cezara Benegui": 0.18333333333333335,
+            "Paul Irofti": 0.18333333333333335,
+            "Andrei Paun": 0.5833333333333333,
             "none": 0.05
         },
         "scriu": {
@@ -5239,8 +5140,9 @@
             "none": 0.05
         },
         "fara": {
-            "total": 0.0002635740643120717,
-            "Cezara Benegui": 0.95,
+            "total": 0.0005271481286241434,
+            "Cezara Benegui": 0.475,
+            "Andrei Paun": 0.475,
             "none": 0.05
         },
         "denormalizare": {
@@ -5583,7 +5485,7 @@
             "none": 0.05
         },
         "functia": {
-            "total": 0.0002635740643120717,
+            "total": 0.0005271481286241434,
             "Mihai Bucataru": 0.95,
             "none": 0.05
         },
@@ -5696,11 +5598,6 @@
             "none": 0.05
         },
         "anihila": {
-            "total": 0.0002635740643120717,
-            "Mihai Bucataru": 0.95,
-            "none": 0.05
-        },
-        "func\u00e8\u203aia": {
             "total": 0.0002635740643120717,
             "Mihai Bucataru": 0.95,
             "none": 0.05
@@ -6040,8 +5937,9 @@
             "none": 0.05
         },
         "intr": {
-            "total": 0.0002635740643120717,
-            "Paul Irofti": 0.95,
+            "total": 0.0005271481286241434,
+            "Paul Irofti": 0.475,
+            "Andrei Paun": 0.475,
             "none": 0.05
         },
         "ordine": {
@@ -6134,7 +6032,7 @@
             "Paul Irofti": 0.95,
             "none": 0.05
         },
-        "autostrad\u00e4\u0192": {
+        "autostrada": {
             "total": 0.0002635740643120717,
             "Paul Irofti": 0.95,
             "none": 0.05
@@ -6459,7 +6357,7 @@
             "Paul Irofti": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aemboln\u00e4\u0192vesc": {
+        "imbolnavesc": {
             "total": 0.0002635740643120717,
             "Paul Irofti": 0.95,
             "none": 0.05
@@ -6500,8 +6398,9 @@
             "none": 0.05
         },
         "rau": {
-            "total": 0.0002635740643120717,
-            "Paul Irofti": 0.95,
+            "total": 0.0005271481286241434,
+            "Paul Irofti": 0.475,
+            "Andrei Paun": 0.475,
             "none": 0.05
         },
         "geamul": {
@@ -6686,8 +6585,9 @@
             "none": 0.05
         },
         "mananc": {
-            "total": 0.0002635740643120717,
-            "Paul Irofti": 0.95,
+            "total": 0.0007907221929362151,
+            "Paul Irofti": 0.3083333333333333,
+            "Andrei Paun": 0.6416666666666666,
             "none": 0.05
         },
         "gasesc": {
@@ -6897,11 +6797,6 @@
             "Paul Irofti": 0.95,
             "none": 0.05
         },
-        "dou\u00e4\u0192": {
-            "total": 0.0002635740643120717,
-            "Paul Irofti": 0.95,
-            "none": 0.05
-        },
         "intreaga": {
             "total": 0.0002635740643120717,
             "Paul Irofti": 0.95,
@@ -6915,11 +6810,6 @@
         "mor": {
             "total": 0.0002635740643120717,
             "Paul Irofti": 0.95,
-            "none": 0.05
-        },
-        "veniti": {
-            "total": 0.0002635740643120717,
-            "Iulia Hirica": 0.95,
             "none": 0.05
         },
         "uscat": {
@@ -6962,11 +6852,6 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u017e\u00e8\u203ai": {
-            "total": 0.0007907221929362151,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
         "bagi": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
@@ -6977,7 +6862,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "talp\u00e4\u0192": {
+        "talpa": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -6987,7 +6872,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "st\u00e4\u0192ri": {
+        "stari": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7007,17 +6892,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "f\u00e4\u0192r\u00e4\u0192": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "s\u00e4\u0192": {
-            "total": 0.0018450184501845018,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "m\u00e3\u00a2nc\u00e4\u0192m": {
+        "mancam": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7048,11 +6923,6 @@
             "none": 0.05
         },
         "frecam": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "\u00e8\u2122tiu": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7097,23 +6967,13 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e8\u02dci": {
-            "total": 0.0005271481286241434,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "b\u00e4\u0192l\u00e4\u0192rii": {
+        "balarii": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
         "sucita": {
             "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "v\u00e4\u0192": {
-            "total": 0.0005271481286241434,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
@@ -7127,12 +6987,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "m\u00e3\u00a2ncat": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "mul\u00e8\u203aumesc": {
+        "mancat": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7147,12 +7002,12 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "cercule\u00e8\u203ae": {
+        "cerculete": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aennebune\u00e8\u2122ti": {
+        "innebunesti": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7167,7 +7022,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "bloc\u00e4\u0192m": {
+        "blocam": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7182,12 +7037,12 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "poli\u00e8\u203ai\u00e8\u2122ti": {
+        "politisti": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "min\u00e8\u203ait": {
+        "mintit": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7197,27 +7052,27 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "comutativ\u00e4\u0192": {
+        "comutativa": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e8\u2122ocant": {
+        "socant": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e8\u203ainem": {
+        "tinem": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u017emp\u00e4\u0192ture\u00e8\u2122ti": {
+        "impaturesti": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "bucat\u00e4\u0192": {
+        "bucata": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7232,7 +7087,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "ad\u00e3\u00a2nc": {
+        "adanc": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7252,7 +7107,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aenmul\u00e8\u203aeasc\u00e4\u0192": {
+        "inmulteasca": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7282,17 +7137,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aentr": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
         "groaznic": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "\u00e3\u017ei": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7307,7 +7152,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aenseamn\u00e4\u0192": {
+        "inseamna": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7317,7 +7162,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "intr\u00e4\u0192m": {
+        "intram": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7327,7 +7172,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "broasc\u00e4\u0192": {
+        "broasca": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7342,27 +7187,22 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "fac\u00e4\u0192": {
+        "faca": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "fric\u00e4\u0192": {
+        "speriati": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "speria\u00e8\u203ai": {
+        "adevarate": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "adev\u00e4\u0192rate": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "or\u00e4\u0192tania": {
+        "oratania": {
             "total": 0.0005271481286241434,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7372,17 +7212,7 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "a\u00e8\u203ai": {
-            "total": 0.0005271481286241434,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "v\u00e4\u0192zut": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "c\u00e3\u00a2nd": {
+        "vazut": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7432,32 +7262,22 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "induc\u00e8\u203aie": {
+        "inductie": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "cite\u00e8\u2122te": {
+        "citeste": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u017el": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "\u00e8\u2122tergem": {
+        "stergem": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
         "nenea": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "\u00e4\u0192sta": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7468,11 +7288,6 @@
             "none": 0.05
         },
         "urile": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "r\u00e4\u0192u": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7492,28 +7307,18 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "m\u00e4\u0192n\u00e3\u00a2nc": {
-            "total": 0.0005271481286241434,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
         "stiva": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "controleaz\u00e4\u0192": {
+        "controleaza": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
         "dolar": {
             "total": 0.0005271481286241434,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "m\u00e4\u0192": {
-            "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
@@ -7527,17 +7332,12 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "b\u00e4\u0192tut": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
         "apa": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "piu\u00e4\u0192": {
+        "piua": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7562,11 +7362,6 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "d\u00e4\u201a": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
         "revenim": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
@@ -7577,22 +7372,17 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "ro\u00e8\u2122u": {
+        "rosu": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "m\u00e3\u00a2na": {
+        "mana": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00aenlocuit": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "\u00e4\u201asta": {
+        "inlocuit": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7607,17 +7397,12 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "num\u00e4\u0192r\u00e4\u0192m": {
+        "numaram": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
         "echivalent": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
-        "toat\u00e4\u0192": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7657,17 +7442,12 @@
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "\u00e3\u00ael": {
-            "total": 0.0002635740643120717,
-            "Andrei Paun": 0.95,
-            "none": 0.05
-        },
         "acela": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
         },
-        "ur\u00e3\u00a2cios": {
+        "uracios": {
             "total": 0.0002635740643120717,
             "Andrei Paun": 0.95,
             "none": 0.05
@@ -7712,9 +7492,9 @@
             "am": 0.011075949367088608,
             "adaugat": 0.0031645569620253164,
             "cursurile": 0.0031645569620253164,
-            "si": 0.02689873417721519,
+            "si": 0.03164556962025317,
             "la": 0.028481012658227847,
-            "aveti": 0.0031645569620253164,
+            "aveti": 0.004746835443037975,
             "o": 0.02689873417721519,
             "tema": 0.004746835443037975,
             "pagina": 0.0031645569620253164,
@@ -7722,7 +7502,7 @@
             "care": 0.012658227848101266,
             "puteti": 0.0031645569620253164,
             "aduce": 0.0031645569620253164,
-            "in": 0.01740506329113924,
+            "in": 0.020569620253164556,
             "format": 0.0031645569620253164,
             "fizic": 0.0031645569620253164,
             "hartie": 0.0031645569620253164,
@@ -7744,7 +7524,7 @@
             "sa": 0.022151898734177215,
             "revin": 0.0031645569620253164,
             "cu": 0.01740506329113924,
-            "sala": 0.0031645569620253164,
+            "sala": 0.004746835443037975,
             "nu": 0.022151898734177215,
             "face": 0.007911392405063292,
             "seminar": 0.004746835443037975,
@@ -7752,7 +7532,7 @@
             "comun": 0.0031645569620253164,
             "ambele": 0.004746835443037975,
             "grupe": 0.0031645569620253164,
-            "daca": 0.006329113924050633,
+            "daca": 0.007911392405063292,
             "gasiti": 0.0031645569620253164,
             "alte": 0.0031645569620253164,
             "variante": 0.0031645569620253164,
@@ -7772,7 +7552,7 @@
             "conform": 0.004746835443037975,
             "orarului": 0.0031645569620253164,
             "noi": 0.0031645569620253164,
-            "informatii": 0.0015822784810126582,
+            "informatii": 0.0031645569620253164,
             "general": 0.0015822784810126582,
             "rugam": 0.0015822784810126582,
             "completati": 0.0015822784810126582,
@@ -7786,7 +7566,7 @@
             "materialele": 0.0015822784810126582,
             "af": 0.0015822784810126582,
             "seria": 0.0015822784810126582,
-            "men\u00e8\u203aiunea": 0.0015822784810126582,
+            "mentiunea": 0.0015822784810126582,
             "ca": 0.006329113924050633,
             "componente": 0.0015822784810126582,
             "tare": 0.0015822784810126582,
@@ -7806,79 +7586,72 @@
             "havel": 0.0015822784810126582,
             "hakimi": 0.0015822784810126582,
             "discutat": 0.0015822784810126582,
-            "demonstra\u00e8\u203aia": 0.0031645569620253164,
+            "demonstratia": 0.0031645569620253164,
             "corectitudinii": 0.0015822784810126582,
-            "\u00e8\u2122i": 0.004746835443037975,
             "cere": 0.0015822784810126582,
             "examen": 0.0015822784810126582,
             "programul": 0.0015822784810126582,
-            "urm\u00e4\u0192toarele": 0.0015822784810126582,
-            "s\u00e4\u0192pt\u00e4\u0192m\u00e3\u00a2ni": 0.0015822784810126582,
+            "urmatoarele": 0.0015822784810126582,
+            "saptamani": 0.0015822784810126582,
             "octombrie": 0.00949367088607595,
             "tine": 0.0015822784810126582,
             "nici": 0.004746835443037975,
             "l": 0.0015822784810126582,
             "recuperat": 0.0015822784810126582,
             "avans": 0.0015822784810126582,
-            "ast\u00e4\u0192zi": 0.0015822784810126582,
+            "astazi": 0.0015822784810126582,
             "programului": 0.0015822784810126582,
             "toata": 0.0015822784810126582,
             "program": 0.0015822784810126582,
-            "preg\u00e4\u0192tire": 0.0015822784810126582,
+            "pregatire": 0.0015822784810126582,
             "concursuri": 0.0031645569620253164,
             "concurs": 0.0031645569620253164,
             "individual": 0.0031645569620253164,
             "ore": 0.0031645569620253164,
-            "jum\u00e4\u0192tate": 0.0015822784810126582,
-            "condi\u00e8\u203aii": 0.0015822784810126582,
+            "jumatate": 0.0015822784810126582,
+            "conditii": 0.0015822784810126582,
             "speciale": 0.0015822784810126582,
-            "informa\u00e8\u203aii": 0.0015822784810126582,
             "suplimentare": 0.0015822784810126582,
             "vor": 0.0015822784810126582,
             "avea": 0.0031645569620253164,
             "loc": 0.0015822784810126582,
             "amfiteatrul": 0.0015822784810126582,
             "titeica": 0.0015822784810126582,
-            "participan\u00e8\u203aii": 0.0015822784810126582,
+            "participantii": 0.0015822784810126582,
             "sunt": 0.004746835443037975,
-            "a\u00e8\u2122tepta\u00e8\u203ai": 0.0015822784810126582,
+            "asteptati": 0.0015822784810126582,
             "laptopul": 0.0015822784810126582,
             "propriu": 0.0015822784810126582,
-            "dac\u00e4\u0192": 0.0015822784810126582,
-            "ave\u00e8\u203ai": 0.0015822784810126582,
             "laptop": 0.0015822784810126582,
-            "\u00e3\u00aen": 0.0015822784810126582,
-            "regul\u00e4\u0192": 0.0015822784810126582,
+            "regula": 0.0015822784810126582,
             "avem": 0.0015822784810126582,
-            "sal\u00e4\u0192": 0.0015822784810126582,
-            "disponibil\u00e4\u0192": 0.0015822784810126582,
+            "disponibila": 0.0015822784810126582,
             "orele": 0.0015822784810126582,
-            "anun\u00e8\u203aate": 0.0015822784810126582,
+            "anuntate": 0.0015822784810126582,
             "cele": 0.0015822784810126582,
             "start": 0.0015822784810126582,
             "al": 0.0015822784810126582,
             "concursurilor": 0.0015822784810126582,
-            "veni\u00e8\u203ai": 0.0015822784810126582,
+            "veniti": 0.0015822784810126582,
             "cel": 0.0015822784810126582,
-            "pu\u00e8\u203ain": 0.0015822784810126582,
+            "putin": 0.0015822784810126582,
             "minute": 0.0015822784810126582,
-            "\u00e3\u00aenainte": 0.0015822784810126582,
-            "\u00e3\u017en": 0.0015822784810126582,
+            "inainte": 0.0015822784810126582,
             "weekend": 0.0015822784810126582,
             "facultatea": 0.0031645569620253164,
             "poate": 0.0031645569620253164,
             "fi": 0.0031645569620253164,
-            "\u00e3\u00aenchis\u00e4\u0192": 0.0015822784810126582,
+            "inchisa": 0.0015822784810126582,
             "accesul": 0.0015822784810126582,
             "litere": 0.0015822784810126582,
-            "duminic\u00e4\u0192": 0.0015822784810126582,
+            "duminica": 0.0015822784810126582,
             "participarea": 0.0015822784810126582,
             "online": 0.0031645569620253164,
-            "permis\u00e4\u0192": 0.0015822784810126582,
-            "s\u00e3\u00a2mb\u00e4\u0192t\u00e4\u0192": 0.0015822784810126582,
+            "permisa": 0.0015822784810126582,
+            "sambata": 0.0031645569620253164,
             "participa": 0.0015822784810126582,
             "dar": 0.0015822784810126582,
-            "\u00e3\u00aencurajat\u00e4\u0192": 0.0015822784810126582,
+            "incurajata": 0.0015822784810126582,
             "contacte": 0.0015822784810126582,
             "utile": 0.0015822784810126582,
             "cei": 0.0015822784810126582,
@@ -7894,7 +7667,6 @@
             "hai": 0.0015822784810126582,
             "olimpiada": 0.0015822784810126582,
             "intampla": 0.0015822784810126582,
-            "sambata": 0.0015822784810126582,
             "dimineata": 0.0015822784810126582,
             "acolo": 0.0031645569620253164,
             "nivele": 0.0015822784810126582,
@@ -7936,7 +7708,7 @@
             "trebuie": 0.0015822784810126582,
             "invatati": 0.0015822784810126582,
             "lucruri": 0.0015822784810126582,
-            "t\u00e3\u00a2c": 0.006329113924050633,
+            "tac": 0.006329113924050633,
             "asta": 0.004746835443037975,
             "ma": 0.004746835443037975,
             "duce": 0.0031645569620253164,
@@ -7946,8 +7718,8 @@
             "repetent": 0.0015822784810126582,
             "restanta": 0.0015822784810126582,
             "restantier": 0.0015822784810126582,
-            "\u00e4\u0192hhhhhh": 0.0015822784810126582,
-            "\u00e4\u0192hhhhh": 0.0015822784810126582,
+            "ahhhhhh": 0.0015822784810126582,
+            "ahhhhh": 0.0015822784810126582,
             "steluta": 0.0015822784810126582,
             "ai": 0.0015822784810126582,
             "aruncat": 0.0015822784810126582,
@@ -8014,7 +7786,7 @@
             "s": 0.0015822784810126582,
             "ajung": 0.0015822784810126582,
             "deja": 0.0015822784810126582,
-            "t\u00e3\u00a2\u00e3\u00a2c": 0.0015822784810126582,
+            "taac": 0.0015822784810126582,
             "ori": 0.0015822784810126582,
             "or": 0.0015822784810126582,
             "foul": 0.0015822784810126582,
@@ -8029,9 +7801,9 @@
         "Sorina Predut": {
             "total": 0.12658227848101267,
             "total_words": 498,
-            "marti": 0.004016064257028112,
+            "marti": 0.006024096385542169,
             "noiembrie": 0.004016064257028112,
-            "in": 0.024096385542168676,
+            "in": 0.03413654618473896,
             "intervalul": 0.010040160642570281,
             "sala": 0.008032128514056224,
             "google": 0.004016064257028112,
@@ -8082,7 +7854,7 @@
             "acest": 0.002008032128514056,
             "rog": 0.004016064257028112,
             "sa": 0.024096385542168676,
-            "completati": 0.004016064257028112,
+            "completati": 0.006024096385542169,
             "urmatorul": 0.002008032128514056,
             "formular": 0.002008032128514056,
             "buna": 0.004016064257028112,
@@ -8114,7 +7886,7 @@
             "facultate": 0.002008032128514056,
             "gasiti": 0.002008032128514056,
             "tot": 0.004016064257028112,
-            "fisierul": 0.004016064257028112,
+            "fisierul": 0.006024096385542169,
             "sqldeveloper": 0.002008032128514056,
             "txt": 0.002008032128514056,
             "din": 0.006024096385542169,
@@ -8124,7 +7896,7 @@
             "azi": 0.002008032128514056,
             "face": 0.002008032128514056,
             "exceptie": 0.002008032128514056,
-            "ca": 0.004016064257028112,
+            "ca": 0.006024096385542169,
             "piarda": 0.002008032128514056,
             "nimeni": 0.002008032128514056,
             "activitatea": 0.002008032128514056,
@@ -8136,7 +7908,7 @@
             "despre": 0.004016064257028112,
             "solutie": 0.002008032128514056,
             "pt": 0.002008032128514056,
-            "studentii": 0.002008032128514056,
+            "studentii": 0.004016064257028112,
             "care": 0.006024096385542169,
             "ajunge": 0.002008032128514056,
             "dimineata": 0.002008032128514056,
@@ -8144,55 +7916,49 @@
             "orar": 0.002008032128514056,
             "m": 0.002008032128514056,
             "informat": 0.002008032128514056,
-            "c\u00e4\u0192": 0.002008032128514056,
             "laboratorul": 0.006024096385542169,
             "subgrupei": 0.004016064257028112,
             "este": 0.008032128514056224,
-            "mar\u00e8\u203ai": 0.002008032128514056,
-            "\u00e3\u00aen": 0.010040160642570281,
             "modificarea": 0.002008032128514056,
-            "vizibil\u00e4\u0192": 0.002008032128514056,
+            "vizibila": 0.002008032128514056,
             "site": 0.002008032128514056,
             "weekend": 0.002008032128514056,
             "urmare": 0.002008032128514056,
-            "\u00e3\u00aencep\u00e3\u00a2nd": 0.002008032128514056,
-            "ast\u00e4\u0192zi": 0.002008032128514056,
+            "incepand": 0.002008032128514056,
+            "astazi": 0.004016064257028112,
             "voi": 0.004016064257028112,
-            "desf\u00e4\u0192\u00e8\u2122ura": 0.002008032128514056,
+            "desfasura": 0.002008032128514056,
             "grupa": 0.002008032128514056,
             "reamintesc": 0.002008032128514056,
             "ce": 0.006024096385542169,
-            "men\u00e8\u203aionat": 0.002008032128514056,
+            "mentionat": 0.002008032128514056,
             "ieri": 0.002008032128514056,
             "participa": 0.004016064257028112,
-            "studen\u00e8\u203aii": 0.002008032128514056,
             "s": 0.002008032128514056,
             "au": 0.002008032128514056,
-            "\u00e3\u00aenscris": 0.002008032128514056,
-            "op\u00e8\u203aionalul": 0.002008032128514056,
+            "inscris": 0.002008032128514056,
+            "optionalul": 0.002008032128514056,
             "daw": 0.002008032128514056,
             "asp": 0.002008032128514056,
             "net": 0.002008032128514056,
-            "ceilal\u00e8\u203ai": 0.002008032128514056,
-            "studen\u00e8\u203ai": 0.002008032128514056,
-            "distribui\u00e8\u203ai": 0.002008032128514056,
+            "ceilalti": 0.004016064257028112,
+            "studenti": 0.002008032128514056,
+            "distribuiti": 0.002008032128514056,
             "celelalte": 0.002008032128514056,
             "subgrupe": 0.004016064257028112,
-            "pute\u00e8\u203ai": 0.002008032128514056,
+            "puteti": 0.004016064257028112,
             "oricare": 0.002008032128514056,
             "dintre": 0.002008032128514056,
             "cele": 0.002008032128514056,
             "laboratoare": 0.004016064257028112,
             "ale": 0.002008032128514056,
             "seriei": 0.002008032128514056,
-            "dac\u00e4\u0192": 0.002008032128514056,
-            "exist\u00e4\u0192": 0.002008032128514056,
+            "daca": 0.008032128514056224,
+            "exista": 0.002008032128514056,
             "locuri": 0.004016064257028112,
             "disponibile": 0.002008032128514056,
-            "completa\u00e8\u203ai": 0.002008032128514056,
-            "fi\u00e8\u2122ierul": 0.002008032128514056,
             "distributie": 0.004016064257028112,
-            "sec\u00e8\u203aiunea": 0.006024096385542169,
+            "sectiunea": 0.006024096385542169,
             "files": 0.004016064257028112,
             "adaugat": 0.002008032128514056,
             "formule": 0.002008032128514056,
@@ -8207,7 +7973,6 @@
             "veti": 0.002008032128514056,
             "merge": 0.004016064257028112,
             "chiar": 0.002008032128514056,
-            "daca": 0.006024096385542169,
             "prima": 0.002008032128514056,
             "tema": 0.002008032128514056,
             "are": 0.004016064257028112,
@@ -8237,7 +8002,6 @@
             "avanseze": 0.002008032128514056,
             "un": 0.008032128514056224,
             "coleg": 0.002008032128514056,
-            "ceilalti": 0.002008032128514056,
             "impartiti": 0.002008032128514056,
             "ecranul": 0.002008032128514056,
             "doua": 0.002008032128514056,
@@ -8254,7 +8018,7 @@
             "motorul": 0.002008032128514056,
             "pl": 0.002008032128514056,
             "cum": 0.004016064257028112,
-            "func\u00e8\u203aioneaz\u00e4\u0192": 0.002008032128514056,
+            "functioneaza": 0.002008032128514056,
             "deja": 0.002008032128514056,
             "aici": 0.006024096385542169,
             "litera": 0.002008032128514056,
@@ -8287,11 +8051,9 @@
             "populati": 0.002008032128514056,
             "doar": 0.002008032128514056,
             "parte": 0.002008032128514056,
-            "puteti": 0.002008032128514056,
             "eventual": 0.002008032128514056,
             "depozite": 0.002008032128514056,
             "sectoare": 0.002008032128514056,
-            "astazi": 0.002008032128514056,
             "asemenea": 0.002008032128514056,
             "folder": 0.002008032128514056,
             "cine": 0.002008032128514056,
@@ -9086,7 +8848,7 @@
             "oricat": 0.003125,
             "urat": 0.003125,
             "posibil": 0.003125,
-            "functia": 0.003125,
+            "functia": 0.00625,
             "masa": 0.00625,
             "fata": 0.00625,
             "endgame": 0.003125,
@@ -9123,7 +8885,6 @@
             "simplu": 0.003125,
             "mi": 0.003125,
             "anihila": 0.003125,
-            "func\u00e8\u203aia": 0.003125,
             "mea": 0.003125,
             "cu": 0.003125,
             "zarul": 0.00625,
@@ -9276,7 +9037,7 @@
             "cum": 0.005272407732864675,
             "ajung": 0.0017574692442882249,
             "constanta": 0.0017574692442882249,
-            "autostrad\u00e4\u0192": 0.0017574692442882249,
+            "autostrada": 0.0017574692442882249,
             "facem": 0.0035149384885764497,
             "multe": 0.0017574692442882249,
             "mizerii": 0.0017574692442882249,
@@ -9387,7 +9148,7 @@
             "citi": 0.0017574692442882249,
             "multi": 0.0017574692442882249,
             "unul": 0.0017574692442882249,
-            "\u00e3\u00aemboln\u00e4\u0192vesc": 0.0017574692442882249,
+            "imbolnavesc": 0.0017574692442882249,
             "vin": 0.0017574692442882249,
             "dupa": 0.0017574692442882249,
             "tine": 0.0017574692442882249,
@@ -9493,7 +9254,7 @@
             "executia": 0.0017574692442882249,
             "vorbim": 0.0017574692442882249,
             "moarte": 0.0017574692442882249,
-            "doua": 0.0017574692442882249,
+            "doua": 0.0035149384885764497,
             "ora": 0.0017574692442882249,
             "idiot": 0.0017574692442882249,
             "simplu": 0.0017574692442882249,
@@ -9509,7 +9270,6 @@
             "intri": 0.0017574692442882249,
             "maternitate": 0.0017574692442882249,
             "ies": 0.0017574692442882249,
-            "dou\u00e4\u0192": 0.0017574692442882249,
             "intreaga": 0.0017574692442882249,
             "gargara": 0.0017574692442882249,
             "vom": 0.0017574692442882249,
@@ -9551,27 +9311,26 @@
             "un": 0.026066350710900472,
             "google": 0.002369668246445498,
             "translate": 0.002369668246445498,
-            "\u00e3\u017e\u00e8\u203ai": 0.0071090047393364926,
+            "iti": 0.0071090047393364926,
             "bagi": 0.002369668246445498,
             "cui": 0.002369668246445498,
-            "\u00e3\u00aen": 0.014218009478672985,
-            "talp\u00e4\u0192": 0.002369668246445498,
+            "in": 0.02132701421800948,
+            "talpa": 0.002369668246445498,
             "o": 0.026066350710900472,
             "explozie": 0.002369668246445498,
             "de": 0.030805687203791468,
-            "st\u00e4\u0192ri": 0.002369668246445498,
+            "stari": 0.002369668246445498,
             "putem": 0.002369668246445498,
             "trece": 0.002369668246445498,
             "dintr": 0.002369668246445498,
             "stare": 0.002369668246445498,
             "alta": 0.002369668246445498,
-            "f\u00e4\u0192r\u00e4\u0192": 0.002369668246445498,
-            "s\u00e4\u0192": 0.016587677725118485,
-            "m\u00e3\u00a2nc\u00e4\u0192m": 0.002369668246445498,
+            "fara": 0.002369668246445498,
+            "sa": 0.035545023696682464,
+            "mancam": 0.002369668246445498,
             "ajungem": 0.002369668246445498,
             "dfa": 0.0071090047393364926,
             "gras": 0.002369668246445498,
-            "in": 0.0071090047393364926,
             "fine": 0.002369668246445498,
             "graf": 0.002369668246445498,
             "nenorocit": 0.002369668246445498,
@@ -9582,7 +9341,7 @@
             "le": 0.0071090047393364926,
             "frecam": 0.002369668246445498,
             "nu": 0.026066350710900472,
-            "\u00e8\u2122tiu": 0.002369668246445498,
+            "stiu": 0.002369668246445498,
             "ce": 0.0071090047393364926,
             "concatenarea": 0.002369668246445498,
             "a": 0.016587677725118485,
@@ -9591,7 +9350,6 @@
             "toate": 0.004739336492890996,
             "nebuniile": 0.002369668246445498,
             "astea": 0.002369668246445498,
-            "sa": 0.018957345971563982,
             "sar": 0.002369668246445498,
             "blah": 0.0071090047393364926,
             "uri": 0.009478672985781991,
@@ -9599,108 +9357,105 @@
             "musca": 0.002369668246445498,
             "pic": 0.0071090047393364926,
             "fund": 0.002369668246445498,
-            "\u00e8\u02dci": 0.004739336492890996,
+            "si": 0.016587677725118485,
             "niste": 0.002369668246445498,
-            "b\u00e4\u0192l\u00e4\u0192rii": 0.002369668246445498,
+            "balarii": 0.002369668246445498,
             "problema": 0.002369668246445498,
             "mai": 0.023696682464454975,
             "sucita": 0.002369668246445498,
-            "c\u00e4\u0192": 0.0071090047393364926,
-            "v\u00e4\u0192": 0.004739336492890996,
+            "ca": 0.014218009478672985,
+            "va": 0.011848341232227487,
             "stresez": 0.002369668246445498,
             "daca": 0.009478672985781991,
             "era": 0.004739336492890996,
             "cu": 0.0071090047393364926,
             "c": 0.002369668246445498,
             "eram": 0.002369668246445498,
-            "m\u00e3\u00a2ncat": 0.002369668246445498,
-            "mul\u00e8\u203aumesc": 0.002369668246445498,
+            "mancat": 0.002369668246445498,
+            "multumesc": 0.002369668246445498,
             "te": 0.002369668246445498,
             "ai": 0.002369668246445498,
             "oprit": 0.002369668246445498,
             "vrei": 0.002369668246445498,
             "i": 0.002369668246445498,
             "faci": 0.002369668246445498,
-            "cercule\u00e8\u203ae": 0.002369668246445498,
-            "\u00e3\u00aennebune\u00e8\u2122ti": 0.002369668246445498,
+            "cerculete": 0.002369668246445498,
+            "innebunesti": 0.002369668246445498,
             "planul": 0.002369668246445498,
             "nostru": 0.002369668246445498,
             "este": 0.0071090047393364926,
-            "bloc\u00e4\u0192m": 0.002369668246445498,
+            "blocam": 0.002369668246445498,
             "amfiteatrele": 0.002369668246445498,
             "repede": 0.002369668246445498,
-            "\u00e8\u2122i": 0.011848341232227487,
             "rapid": 0.002369668246445498,
             "ne": 0.0071090047393364926,
             "transformam": 0.002369668246445498,
-            "poli\u00e8\u203ai\u00e8\u2122ti": 0.002369668246445498,
+            "politisti": 0.002369668246445498,
             "deja": 0.004739336492890996,
-            "min\u00e8\u203ait": 0.002369668246445498,
+            "mintit": 0.002369668246445498,
             "reuniunea": 0.002369668246445498,
             "e": 0.011848341232227487,
-            "comutativ\u00e4\u0192": 0.002369668246445498,
-            "\u00e8\u2122ocant": 0.002369668246445498,
+            "comutativa": 0.002369668246445498,
+            "socant": 0.002369668246445498,
             "sau": 0.002369668246445498,
             "hai": 0.002369668246445498,
-            "\u00e8\u203ainem": 0.002369668246445498,
+            "tinem": 0.002369668246445498,
             "minte": 0.002369668246445498,
-            "\u00e3\u017emp\u00e4\u0192ture\u00e8\u2122ti": 0.002369668246445498,
-            "bucat\u00e4\u0192": 0.002369668246445498,
+            "impaturesti": 0.002369668246445498,
+            "bucata": 0.002369668246445498,
             "b": 0.004739336492890996,
             "absorbita": 0.002369668246445498,
             "tre": 0.002369668246445498,
             "intru": 0.002369668246445498,
             "cat": 0.002369668246445498,
-            "ad\u00e3\u00a2nc": 0.002369668246445498,
+            "adanc": 0.002369668246445498,
             "aaah": 0.002369668246445498,
             "adaugat": 0.002369668246445498,
             "rasucit": 0.002369668246445498,
             "incepe": 0.002369668246445498,
             "se": 0.0071090047393364926,
-            "\u00e3\u00aenmul\u00e8\u203aeasc\u00e4\u0192": 0.002369668246445498,
+            "inmulteasca": 0.002369668246445498,
             "mizerie": 0.002369668246445498,
-            "asta": 0.004739336492890996,
+            "asta": 0.009478672985781991,
             "lambda": 0.0071090047393364926,
             "nfa": 0.004739336492890996,
             "automat": 0.002369668246445498,
             "normal": 0.002369668246445498,
             "cap": 0.002369668246445498,
-            "\u00e3\u00aentr": 0.002369668246445498,
+            "intr": 0.002369668246445498,
             "groaznic": 0.002369668246445498,
-            "\u00e3\u017ei": 0.002369668246445498,
+            "ii": 0.002369668246445498,
             "fac": 0.004739336492890996,
             "implozie": 0.002369668246445498,
             "maxim": 0.002369668246445498,
             "haide": 0.002369668246445498,
             "vedem": 0.002369668246445498,
             "naiba": 0.002369668246445498,
-            "\u00e3\u00aenseamn\u00e4\u0192": 0.002369668246445498,
+            "inseamna": 0.002369668246445498,
             "r": 0.002369668246445498,
             "k": 0.0071090047393364926,
             "ar": 0.002369668246445498,
-            "ca": 0.0071090047393364926,
-            "intr\u00e4\u0192m": 0.002369668246445498,
+            "intram": 0.002369668246445498,
             "partea": 0.002369668246445498,
             "grasa": 0.002369668246445498,
             "cursului": 0.002369668246445498,
-            "broasc\u00e4\u0192": 0.002369668246445498,
+            "broasca": 0.002369668246445498,
             "brrrrrrrrr": 0.002369668246445498,
             "apare": 0.002369668246445498,
             "ceva": 0.002369668246445498,
-            "fac\u00e4\u0192": 0.002369668246445498,
-            "fric\u00e4\u0192": 0.002369668246445498,
-            "va": 0.0071090047393364926,
+            "faca": 0.002369668246445498,
+            "frica": 0.002369668246445498,
             "rog": 0.002369668246445498,
-            "speria\u00e8\u203ai": 0.002369668246445498,
+            "speriati": 0.002369668246445498,
             "cuvinte": 0.004739336492890996,
-            "adev\u00e4\u0192rate": 0.002369668246445498,
+            "adevarate": 0.002369668246445498,
             "cum": 0.002369668246445498,
-            "or\u00e4\u0192tania": 0.004739336492890996,
+            "oratania": 0.004739336492890996,
             "aia": 0.002369668246445498,
             "care": 0.004739336492890996,
-            "a\u00e8\u203ai": 0.004739336492890996,
-            "v\u00e4\u0192zut": 0.002369668246445498,
-            "c\u00e3\u00a2nd": 0.002369668246445498,
+            "ati": 0.004739336492890996,
+            "vazut": 0.002369668246445498,
+            "cand": 0.002369668246445498,
             "intrat": 0.002369668246445498,
             "din": 0.002369668246445498,
             "pauza": 0.002369668246445498,
@@ -9716,57 +9471,55 @@
             "caut": 0.002369668246445498,
             "lungime": 0.002369668246445498,
             "nicio": 0.002369668246445498,
-            "induc\u00e8\u203aie": 0.002369668246445498,
+            "inductie": 0.002369668246445498,
             "oricum": 0.002369668246445498,
-            "cite\u00e8\u2122te": 0.002369668246445498,
+            "citeste": 0.002369668246445498,
             "nimeni": 0.002369668246445498,
-            "\u00e3\u017el": 0.002369668246445498,
-            "\u00e8\u2122tergem": 0.002369668246445498,
+            "il": 0.004739336492890996,
+            "stergem": 0.002369668246445498,
             "nenea": 0.002369668246445498,
-            "\u00e4\u0192sta": 0.002369668246445498,
             "placeau": 0.002369668246445498,
             "urile": 0.002369668246445498,
             "foarte": 0.002369668246445498,
-            "r\u00e4\u0192u": 0.002369668246445498,
+            "rau": 0.002369668246445498,
             "ozn": 0.002369668246445498,
             "fortoase": 0.002369668246445498,
             "distractiv": 0.002369668246445498,
-            "m\u00e4\u0192n\u00e3\u00a2nc": 0.004739336492890996,
+            "mananc": 0.004739336492890996,
             "doar": 0.002369668246445498,
             "stiva": 0.002369668246445498,
-            "controleaz\u00e4\u0192": 0.002369668246445498,
+            "controleaza": 0.002369668246445498,
             "nimic": 0.002369668246445498,
             "dolar": 0.004739336492890996,
-            "m\u00e4\u0192": 0.002369668246445498,
+            "ma": 0.002369668246445498,
             "duc": 0.002369668246445498,
             "avem": 0.002369668246445498,
             "chestii": 0.002369668246445498,
             "mizerabile": 0.002369668246445498,
-            "b\u00e4\u0192tut": 0.002369668246445498,
+            "batut": 0.002369668246445498,
             "apa": 0.002369668246445498,
-            "piu\u00e4\u0192": 0.002369668246445498,
+            "piua": 0.002369668246445498,
             "z": 0.002369668246445498,
             "varianta": 0.002369668246445498,
             "powerpoint": 0.002369668246445498,
             "produs": 0.002369668246445498,
             "cartezian": 0.002369668246445498,
-            "d\u00e4\u201a": 0.002369668246445498,
+            "da": 0.002369668246445498,
             "revenim": 0.002369668246445498,
             "firul": 0.002369668246445498,
-            "ro\u00e8\u2122u": 0.002369668246445498,
+            "rosu": 0.002369668246445498,
             "pus": 0.002369668246445498,
-            "m\u00e3\u00a2na": 0.002369668246445498,
+            "mana": 0.002369668246445498,
             "ea": 0.002369668246445498,
-            "\u00e3\u00aenlocuit": 0.002369668246445498,
+            "inlocuit": 0.002369668246445498,
             "pot": 0.004739336492890996,
             "ating": 0.002369668246445498,
-            "\u00e4\u201asta": 0.002369668246445498,
             "moare": 0.002369668246445498,
             "aici": 0.002369668246445498,
             "fascism": 0.002369668246445498,
-            "num\u00e4\u0192r\u00e4\u0192m": 0.002369668246445498,
+            "numaram": 0.002369668246445498,
             "echivalent": 0.002369668246445498,
-            "toat\u00e4\u0192": 0.002369668246445498,
+            "toata": 0.002369668246445498,
             "jungla": 0.002369668246445498,
             "m": 0.002369668246445498,
             "plictisit": 0.002369668246445498,
@@ -9782,10 +9535,9 @@
             "pun": 0.002369668246445498,
             "aicia": 0.002369668246445498,
             "obicei": 0.002369668246445498,
-            "\u00e3\u00ael": 0.002369668246445498,
             "tai": 0.002369668246445498,
             "acela": 0.002369668246445498,
-            "ur\u00e3\u00a2cios": 0.002369668246445498,
+            "uracios": 0.002369668246445498,
             "aruncam": 0.002369668246445498,
             "alea": 0.002369668246445498,
             "non": 0.002369668246445498,
