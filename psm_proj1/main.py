@@ -45,7 +45,7 @@ def main():
         print("")
         for i in range(len(solutions)):
             print(solutions[i][0], end=": ")
-            print(solutions[i][1])
+            print(str(round(solutions[i][1] * 100, 2)) + "%")
         
         print("Introduceti un citat: ", end ="")
         citat_nou = input()
