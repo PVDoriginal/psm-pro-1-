@@ -10,7 +10,8 @@ Script-ul [checker.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_p
 
 ![image](https://github.com/user-attachments/assets/9cf8ed54-b95b-4f25-99d9-e4a79555d0da)
 
-# Probabilitati!
+# Probabilitati (partea lui Vlad)!
+
 
 [Checker.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/checker.py) parseaza lista citatelor, le separa in cuvinte si scrie in [data.json](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/data/data.json) urmatoarele probabilitati: 
 
@@ -31,6 +32,8 @@ Formula urmatoare sta la baza proiectului. Este derivata din formula lui Bayes..
 
 ![WhatsApp Image 2024-11-05 at 16 23 19_8965ae61](https://github.com/user-attachments/assets/8a61e154-db64-40ab-a06e-e8fbeb521720)
 ![image](https://github.com/user-attachments/assets/4a914817-dcc2-43ba-8a9a-76a2aadc4806)
+
+(Implementarea algoritmului de mai sus, cat si a tot ce este in [main.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/main.py), este realizata de Matei Pescariu)  
 
 # Artificiu de calcul: None
 
