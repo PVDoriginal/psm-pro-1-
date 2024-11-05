@@ -42,6 +42,8 @@ O solutie ar fi sa nu consideram cuvintele de genul. Dar atunci, e posibil ca al
 
 Cel mai bun artificiu pe care l-am gasit a fost sa adaugam la fiecare fiecare cuvant o sansa de 5% sa nu-l fi zis nimeni. Astfel, sansa ca un cuvant de tipul asta sa apartina profului care l-a zis este doar de 95%, in loc de 100%:
 
+![image](https://github.com/user-attachments/assets/3e5d5edb-61b2-4662-8959-dec4e6c688b8)
+
 ![image](https://github.com/user-attachments/assets/ab45766e-a1d4-4f56-8b54-a897e4f0bd28)
 
 
