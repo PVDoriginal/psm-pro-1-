@@ -1,21 +1,51 @@
-# Initial probabilities
+# Utilizare!
 
-The initial probabilites are computed from a JSON file containing a list of quotes from each person.
+Se poate rula scriptul [main.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/main.py), iar dupa la introducerea unui mesaj va calcula probabilitatile ca acesta sa fie scris de fiecare prof in parte!
 
-For instance, a sample example would be: 
+![image](https://github.com/user-attachments/assets/bb7d79a0-1cf9-4655-9a20-f79f72416920)
 
-![image](https://github.com/user-attachments/assets/fc834016-682a-415a-99c4-e4c6545b85d0)
+# Citate!
+
+Script-ul [checker.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/checker.py) primeste un [fisier json](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/data/quotes.json) ce contine o lista de profi si cateva zeci de citate / mesaje de la fiecare. Unele sunt copiate de pe Teams, majoritatea sunt luate din timpul cursurilor. 
+
+![image](https://github.com/user-attachments/assets/9cf8ed54-b95b-4f25-99d9-e4a79555d0da)
+
+# Probabilitati!
+
+[Checker.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/checker.py) parseaza lista citatelor, le separa in cuvinte si scrie in [data.json](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/data/data.json) urmatoarele probabilitati: 
+
+- Pentru fiecare cuvant, **P(cuvant)** (numit total)
+- Pentru fiecare cuvant, si ficare prof care l-a spus, **P(cuvant | prof)**
+- Mai este adaugat si campul **none**, mai multe detalii la final
+
+![image](https://github.com/user-attachments/assets/ea363a33-e9dd-4086-89ec-ad1c6d62377d)
+
+-- Pentru fiecare prof, **P(prof)** (numit iar total)
+-- Pentru fiecare prof, si fiecare cuvant pe care l-a spus, **P(prof | cuvant)**
+
+![image](https://github.com/user-attachments/assets/cf3a3a47-d537-4637-a05f-7ecf6fa0c8d0)
+
+# Formule 😵
+
+Formula urmatoare sta la baza proiectului. Este derivata din formula lui Bayes.. probabil. Pentru mai multe detalii vorbiti cu Mihai Duzi. 
+
+![WhatsApp Image 2024-11-05 at 16 23 19_8965ae61](https://github.com/user-attachments/assets/8a61e154-db64-40ab-a06e-e8fbeb521720)
+![image](https://github.com/user-attachments/assets/4a914817-dcc2-43ba-8a9a-76a2aadc4806)
+
+# Artificiu de calcul: None
+
+O problema foarte grava ce apare in calculul probabilitatilor este cazul in care un cuvant a fost zis de un singur prof. Atunci P(cuvant | prof) va fi 100%, iar, in functie de formula, va interpreta ca orice mesaj ce contine cuvantul respectiv este sigur scris de proful ala. 
+
+O solutie ar fi sa nu consideram cuvintele de genul. Dar atunci, e posibil ca algoritmul sa 'subestimeze' contributia unui prof la un anumit citat, pentru ca e format in mare parte din cuvinte specifice lui. De exemplu:
+
+![WhatsApp Image 2024-11-05 at 19 36 51_8b3425cc](https://github.com/user-attachments/assets/d4a7c767-11ed-4608-946e-872491755170)
+
+Cel mai bun artificiu pe care l-am gasit a fost sa adaugam la fiecare fiecare cuvant o sansa de 5% sa nu-l fi zis nimeni. Astfel, sansa ca un cuvant de tipul asta sa apartina profului care l-a zis este doar de 95%, in loc de 100%:
+
+![image](https://github.com/user-attachments/assets/ab45766e-a1d4-4f56-8b54-a897e4f0bd28)
 
 
-They are saved in another JSON file, with the following format:
-
-- The file is divided in 2 subsections, 'words' and 'people'. 
-- In the 'words' section, you can find a list of every word used in the collected data. Each word has a 'total' value, the probability of getting this word when picking a random one (P(word)), and then a field for each different person that used it, containing the probability of that word belonging to that person (P(person | word)).
-
-![image](https://github.com/user-attachments/assets/15e181df-a5d7-4f1e-9729-bb5f32b8f4f8)
-
-- In the 'people' section, you can find a list containing all the people. Each one has a 'total' value, the probability of a random quote belonging to that person (P(person)), and then a field for each different word that person has used, containing the probaiblity of picking that word when selecting a random word written by that person (P(word | person))
-
-![image](https://github.com/user-attachments/assets/fa9a2849-d36f-4b4f-bbb1-87374d90baf9)
 
  
+
+
