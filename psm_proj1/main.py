@@ -12,6 +12,15 @@ data['people'] = dict()  # probabilities on each person
 total_quotes = 0
 total_words = 0
 
+def trimCitat(s):
+    for punctuation in '''!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~''':
+        s = s.replace(punctuation, ' ')
+
+    for number in "0123456789":
+        s = s.replace(number, ' ')
+        
+    return s
+
 for person in quotes:
 
     data['people'][person] = dict()
@@ -21,13 +30,9 @@ for person in quotes:
     for quote in quotes[person]:
         total_quotes += 1
         s = quote
-
-        for punctuation in '''!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~''':
-            s = s.replace(punctuation, ' ')
-
-        for number in "0123456789":
-            s = s.replace(number, ' ')
-
+        
+        s = trimCitat(s)
+        
         for word in s.split():
             word = word.lower()
             total_words += 1
@@ -64,5 +69,35 @@ for person in data['people']:
 
 with open('data/data.json', 'w') as file:
     json.dump(data, file, indent=4)
+    
+def calcTeacher(citat,teacher):
+    multiplication = 1
+    
+    for word in citat.split():
+        #don't consider words not in our database
+        if word not in data['words'].keys():
+            continue
+        
+        #don't count words not said by teacher
+        if teacher not in data['words'][word]:
+            continue
+        
+        prob_not = 1 - data['words'][word][teacher]
+        
+        if prob_not > 0:
+            multiplication *= prob_not
+    
+    return 1 - multiplication
+        
+def main():
+    citat_nou = input()
+    citat_nou = trimCitat(citat_nou)
+    
+    for teacher in data['people'].keys():
+        print(teacher, end=": ")
+        print(calcTeacher(citat_nou,teacher))
+    
 
+if __name__=="__main__":
+    main()
 
