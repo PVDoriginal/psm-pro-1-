@@ -42,8 +42,13 @@ def main():
         solutions = sorted(solutions, key = lambda x : -x[1])
         
         print("")
-        print("Cel mai probabil, citatul a fost zis de: ", solutions[0][0])
-        print("")
+
+        if solutions[0][1] == 0:
+            print("Cel mai probabil, citatul a fost zis de: Nimeni :(")
+        else:
+            print("Cel mai probabil, citatul a fost zis de: ", solutions[0][0])
+            print("")
+
         for i in range(len(solutions)):
             print(solutions[i][0], end=": ")
             print(str(round(solutions[i][1] * 100, 2)) + "%")
