@@ -35,6 +35,13 @@ Formula urmatoare sta la baza proiectului. Este derivata din formula lui Bayes..
 
 (Implementarea algoritmului de mai sus, cat si a tot ce este in [main.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/main.py), este realizata de Matei Pescariu)  
 
+# Acuratete:
+
+Prin rularea scriptului [self_evaluate](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/self-evaluate.py), se va trece [fiecare citat](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/data/quotes.json) prin algoritmul din [main.py](https://github.com/PVDoriginal/psm-pro-1-/blob/main/psm_proj1/main.py), verificandu-se daca proful returnat ca fiind cel mai probabil este intradevar cel ce a spus citatul. La final se afiseaza procentul de acuratete obtinut: 
+
+![image](https://github.com/user-attachments/assets/6f9f2d21-9ac0-4de2-af0c-9c92757a6885)
+
+
 # Artificiu de calcul: None
 
 O problema foarte grava ce apare in calculul probabilitatilor este cazul in care un cuvant a fost zis de un singur prof. Atunci P(cuvant | prof) va fi 100%, iar, in functie de formula, va interpreta ca orice mesaj ce contine cuvantul respectiv este sigur scris de proful ala. 
